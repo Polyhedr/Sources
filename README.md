@@ -63,6 +63,16 @@ Each rule in **Sources** is associated with a **Rule Card**, generated from the 
 - **Game Information**: Includes age limit, card values and colors required, number of players, and average game duration.
 - **Rule Summary**: A condensed version of the rules, often sufficient to start playing.
 
+## Dependencies
+**Windows (with [Chocolatey](https://community.chocolatey.org/)):**
+```sh
+choco install texlive imagemagick ghostscript
+```
+**Linux (with apt):**
+```sh
+sudo apt-get install texlive imagemagick ghostscript
+```
+
 ## Create a New Rule ✨
 Want to add a new rule to **Sources**? Follow these steps to contribute:
 1. **Create the rule file**: Write a **rule.tex** file describing your new rule.
