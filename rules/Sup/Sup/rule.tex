@@ -1,0 +1,50 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{emoji}
+\usepackage{pgffor}
+\usepackage{tikz}
+\newcommand{\cardtext}{1-12}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{12+}
+\newcommand{\clocktext}{25$''$}
+\newcommand{\languagecrop}{english_crop}
+\newcommand{\colorcount}{5}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{arrows-counterclockwise} Setup.} Shuffle the cards and deal 4 cards to each player. 
+The rest form the draw pile. You will have \textbf{rows of cards} in your \textbf{play area}.
+The top and bottom rows are the \textbf{active rows}.
+\\
+\\
+\textbf{\emoji{minus} Row rules.} Rows are created \textbf{only at the top or bottom}, 
+must always remain the \textbf{same color}, and are worth \textbf{their highest card} in points.
+\\
+\\
+\noindent
+\textbf{\emoji{joystick} Gameplay.}  
+First turn: Play one card to create your first row and draw one card. 
+Subsequent turns:
+\begin{itemize}
+    \item \emoji{warning} You \textbf{must} play a card in an opponent's area to create or increment an \textbf{active row}.
+    \item \emoji{seedling} Play another card in your area to increment a \textbf{(active or inactive)} row or create a new row 
+    (the former active row must have a card of the same value, \textbf{a 10, 11, or 12 cannot be played this way}). You may skip this step by discarding a card. End your turn by drawing 2 cards.
+\end{itemize} 
+\textbf{\emoji{stop-sign} End of the game.}
+When a play area has 4 rows of different colors, the current round finishes normally, and other players each take \textbf{one final turn}.
+\\
+\\
+\noindent
+\emoji{pushpin} You may have multiple rows of the same color.
+\\
+\textbf{\emoji{pushpin} Inactive rows.} Place them aside in your area to make space, keeping only the highest value card for each row (the others are discarded).
+}
+\end{document}

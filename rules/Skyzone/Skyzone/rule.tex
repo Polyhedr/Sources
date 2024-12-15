@@ -1,0 +1,48 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{emoji}
+\usepackage{pgffor}
+\usepackage{tikz}
+\newcommand{\cardtext}{0-10}
+\newcommand{\grouptext}{2-3}
+\newcommand{\agetext}{12+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{english_crop}
+\newcommand{\colorcount}{4}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{arrows-counterclockwise} Setup.} Shuffle the cards and deal them so that each player has a \textbf{3$\times$3 grid of face-down cards}. 
+The remaining cards form the draw pile. Flip 2 cards from the draw pile face-up to create 2 discard piles.
+\\
+\\
+\textbf{\emoji{game-die} Game Turn.} Players take turns. On your turn, you must:
+\begin{itemize}
+    \item \textbf{Take a card} from one of the discard piles or draw one from the draw pile.
+    \item Then, use it to \textbf{replace} a card in your grid (and discard the old one) or discard it and \textbf{flip over} a card in your grid.
+    Before discarding, look at your card and \textbf{choose} the discard pile carefully!
+\end{itemize}
+\textbf{\emoji{cross-mark} Removal.} As soon as 3 cards of the same value are adjacent (not diagonally), \textbf{they are discarded (into the discard pile in any order you choose)}.
+\\
+\\
+\textbf{\emoji{stop-sign} End of Game.} Are all your cards flipped? The game ends for you. 
+The others each play one more turn, then all remaining face-down cards are revealed.
+\\
+\\
+\textbf{\emoji{dart} Objective.} Have the \textbf{lowest} score! 
+Each zone of \textbf{adjacent cards of the same color} scores the value of the \textbf{highest card} it contains.
+Each \textbf{dark card} adds one extra point.
+\\
+\\
+\noindent
+\emoji{pushpin} Shuffle and/or rebalance if one of the 3 piles is empty.
+}
+\end{document}

@@ -1,0 +1,48 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{emoji}
+\usepackage{pgffor}
+\usepackage{tikz}
+\newcommand{\cardtext}{1-12}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{12+}
+\newcommand{\clocktext}{25$''$}
+\newcommand{\languagecrop}{english_crop}
+\newcommand{\colorcount}{5}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{party-popper} Sup Variant.} 2 teams of 1 to 3 players. Follow the rules of Sup with some modifications.
+\\
+\\
+\noindent
+\emoji{arrows-counterclockwise} Players take turns, alternating between teams.
+\\
+\\
+\noindent
+\textbf{\emoji{point-up} First step of your turn.} Play in one of the opposing team’s area.
+\\
+\\
+\noindent
+\textbf{\emoji{victory-hand} Second step.} Play another card in your area, 
+or \textbf{in a teammate’s area by paying 1 token} (each player starts with 1 token, you can use Rule cards as tokens). 
+If you skip this step and discard a 10, 11, or 12, \textbf{you earn a token}!
+\newpage
+\noindent
+\textbf{\emoji{stop-sign} End of the game.} When an area has 4 rows of different colors, the current round finishes normally and the other players each take \textbf{one final turn}. 
+During this final turn, players from the same team can \textbf{exchange} cards from their hands and discuss strategies (token exchanges are not allowed).
+\noindent
+\\
+\\
+\noindent
+\textbf{\emoji{party-popper} Another variant.} You can play with 4 colors instead of 5. The end condition remains the same: 4 different colors are needed in an area.
+}
+\end{document}
