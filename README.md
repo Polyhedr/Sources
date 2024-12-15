@@ -65,6 +65,16 @@ Chaque règle de **Sources** est associée à une **carte Règle**, générée �
 - **Indications sur le jeu** : âge limite, valeurs et couleurs des cartes nécessaires pour jouer, nombre de joueurs et durée moyenne d'une partie.
 - **Résumé des règles** : un condensé des règles, souvent suffisant pour commencer à jouer.
 
+## Dépendances
+**Windows (avec [Chocolatey](https://community.chocolatey.org/)):**
+```sh
+choco install texlive imagemagick ghostscript
+```
+**Linux (avec apt):**
+```sh
+sudo apt-get install texlive imagemagick ghostscript
+```
+
 ## Créer une nouvelle règle ✨
 Envie d'ajouter une nouvelle règle à **Sources** ? Suis ces étapes pour contribuer :  
 1. **Créer le fichier de règle** : Rédige un fichier **rule.tex** décrivant ta nouvelle règle.
