@@ -1,0 +1,48 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{emoji}
+\usepackage{pgffor}
+\usepackage{tikz}
+\newcommand{\cardtext}{1-12}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{12+}
+\newcommand{\clocktext}{25$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{5}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{party-popper} Variante de Sup.} 2 équipes de 1 à 3 joueurs. On reprend les règles de Sup avec quelques modifications.
+\\
+\\
+\noindent
+\emoji{arrows-counterclockwise} Les joueurs jouent à tour de rôle, en alternant entre les équipes.
+\\
+\\
+\noindent
+\textbf{\emoji{point-up} Première étape de ton tour.} Joue dans une zone de l’équipe adverse.
+\\
+\\
+\noindent
+\textbf{\emoji{victory-hand} Deuxième étape.} Joue une autre carte dans ta zone,
+ou \textbf{dans celle d’un coéquipier en payant 1 jeton} (chaque joueur commence avec 1 jeton, tu peux utiliser les cartes Règle comme jetons).
+Si tu ignores cette étape et que tu défausses un 10, 11 ou 12, \textbf{tu gagnes un jeton} !
+\newpage
+\noindent
+\textbf{\emoji{stop-sign} Fin de partie.} Quand une zone a 4 lignes de couleurs différentes, le tour en cours se termine normalement et les autres joueurs jouent chacun \textbf{un dernier tour}. 
+Lors de ce dernier tour, les joueurs de la même équipe peuvent \textbf{échanger} des cartes de leurs mains et discuter entre eux (les échanges de jetons ne sont pas permis).
+\noindent
+\\
+\\
+\noindent
+\textbf{\emoji{party-popper} Autre variante.} Tu peux jouer avec 4 couleurs au lieu de 5. La condition de fin reste la même : il faut 4 couleurs différentes dans une zone.
+}
+\end{document}

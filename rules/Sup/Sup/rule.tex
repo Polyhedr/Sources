@@ -1,0 +1,50 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{emoji}
+\usepackage{pgffor}
+\usepackage{tikz}
+\newcommand{\cardtext}{1-12}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{12+}
+\newcommand{\clocktext}{25$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{5}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{arrows-counterclockwise} Mise en place.} Mélange les cartes et donne en 4 cartes à chaque joueur. 
+Le reste forme la pioche. Tu auras \textbf{des lignes de cartes} dans ta \textbf{zone} de jeu.
+Les lignes du haut et du bas sont les lignes \textbf{actives}.
+\\
+\\
+\textbf{\emoji{minus} Règles des lignes.} Elles ne sont créées \textbf{qu'en haut ou en bas}, 
+doivent toujours rester de la \textbf{même couleur} et valent \textbf{leur carte la plus haute} en point.
+% Le joueur avec le plus de points gagne, chaque ligne valant sa carte la plus haute.
+\\
+\\
+\noindent
+\textbf{\emoji{joystick} Déroulement.}  
+Premier tour : pose une carte pour créer ta première ligne et pioche une carte. 
+Tours suivants :
+\begin{itemize}
+    \item \emoji{warning} Tu \textbf{dois} jouer une carte dans la zone d’un adversaire pour créer ou incrémenter une \textbf{ligne active}.
+    \item \emoji{seedling} Joue une autre carte dans ta zone pour incrémenter une ligne \textbf{(active ou non)} ou créer une nouvelle ligne
+    (l'ancienne ligne active doit avoir une carte de même valeur, \textbf{un 10, 11, 12 ne peut pas être joué ainsi}). Tu peux ignorer cette étape en défaussant une carte. Termine ton tour en piochant 2 cartes.
+\end{itemize} 
+\textbf{\emoji{stop-sign} Fin de partie.}
+Quand une zone a 4 lignes de couleurs différentes, le tour en cours se termine normalement et les autres joueurs jouent chacun \textbf{un dernier tour}.
+\\
+\\
+\noindent
+\emoji{pushpin} Tu peux avoir plusieurs lignes de la même couleur.
+\\
+\textbf{\emoji{pushpin} Lignes inactives.} Mets-les à côté de ta zone pour faire de la place, en ne conservant que la carte de valeur maximale pour chaque ligne (les autres sont défaussées).
+}\end{document}

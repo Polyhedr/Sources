@@ -1,0 +1,56 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{pgffor}
+\usepackage{tikz}
+\usepackage{emoji}
+\newcommand{\cardtext}{0-11}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{6+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{6}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue, 5/mygreen}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{arrows-counterclockwise} Mise en place.} Mélange les cartes et donne en 5 à chaque joueur. 
+Le reste forme la pioche.
+Retourne la première carte de la pioche pour créer la \textbf{pile visible}, et à côté se trouve la \textbf{pile cachée} (initialement vide). 
+La carte du dessus de la pile visible est la \textbf{référence}.
+%Tu as dons 3 tas de cartes au centre de la table.
+\\
+\\
+\noindent
+\textbf{\emoji{dart} Objectif.} Se débarrasser de ses cartes.
+\\
+\\
+\noindent
+\textbf{\emoji{game-die} Tour de jeu.} On joue à tour de rôle. 
+À ton tour, tu peux piocher (dans la pioche) et/ou jouer sur l’une des piles (face visible/cachée sur la pile visible/cachée).
+Pour la pile visible, ta carte doit correspondre (\textbf{en nombre ou couleur}) à la référence (qui est donc mise à jour).
+\newpage
+\noindent
+\textbf{\emoji{lying-face} Mytho.} Si tu joues une carte sur la pile cachée, n’importe quel autre joueur peut \textbf{contester} en la retournant.
+\begin{itemize}
+\item Si la carte correspond à la référence, le contestataire \textbf{pioche} une carte.
+\item Sinon, le menteur \textbf{pioche} une carte et \textbf{tire} une autre carte au hasard dans la \textbf{main du contestataire}.
+\end{itemize}
+\textbf{\emoji{right-arrow} Après une contestation.} La carte retournée devient la nouvelle référence.
+\\
+\\
+\textbf{\emoji{warning} No risk, no gain.} Si le contestataire a tort, il ne tire pas de carte dans la main du joueur honnête !
+\\
+\\
+\noindent
+\emoji{pushpin} Un joueur jouant sa dernière carte peut encore être contesté.
+\\
+\noindent
+\emoji{pushpin} On gagne aussi en contestant à raison avec une seule carte en main.
+}\end{document}

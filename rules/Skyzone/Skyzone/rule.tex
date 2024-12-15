@@ -1,0 +1,48 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{emoji}
+\usepackage{pgffor}
+\usepackage{tikz}
+\newcommand{\cardtext}{0-10}
+\newcommand{\grouptext}{2-3}
+\newcommand{\agetext}{12+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{4}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{arrows-counterclockwise} Mise en place.} Mélange les cartes et distribue-les pour que chaque joueur ait une \textbf{grille de 3$\times$3 cartes face cachée}. 
+Le reste des cartes forme la pioche. Retourne 2 cartes de la pioche face visible pour créer 2 défausses.
+%Voilà, 3 tas de cartes bien en place au centre de la table !
+\\
+\\
+\textbf{\emoji{game-die} Tour de jeu.} On joue à tour de rôle. À ton tour, tu dois :
+\begin{itemize}
+    \item \textbf{Prendre une carte} sur l'une des défausses ou en piocher une.
+    \item Ensuite, utilise-la pour \textbf{remplacer} une carte de ta grille (et défausse l’ancienne) ou bien défausse-la et \textbf{retourne} une carte de ta grille.
+    Avant de défausser, regarde ta carte et \textbf{choisis} bien ta défausse !
+\end{itemize}
+\textbf{\emoji{cross-mark} Suppression.} Dès que 3 cartes de même valeur se touchent (pas en diagonale), \textbf{elles sont défaussées (dans la défausse et dans l'ordre que tu veux)}.
+\\
+\\
+\textbf{\emoji{stop-sign} Fin de partie.} Tes cartes sont toutes retournées ? Le jeu s'arrête pour toi. 
+Les autres jouent encore une fois chacun, puis les cartes encore face cachée sont révélées.
+\\
+\\
+\textbf{\emoji{dart} Objectif.} Avoir le \textbf{moins} de points ! 
+Chaque zone de cartes de {même couleur adjacentes} vaut la valeur de la carte \textbf{la plus élevée} qu'elle contient.
+Chaque \textbf{carte sombre} ajoute un point en plus.
+\\
+\\
+\noindent
+\emoji{pushpin} Mélange et/ou rééquilibre si un des 3 tas est vide.
+}\end{document}

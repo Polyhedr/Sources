@@ -1,0 +1,34 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{pgffor}
+\usepackage{emoji}
+\usepackage{tikz}
+\newcommand{\cardtext}{0-11}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{6+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{6}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue, 5/mygreen}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{party-popper} Variante de Unomito.} On suit les règles classiques de Unomito, mais avec \textbf{une seule pile cachée !} 
+Elle est initialisée avec une carte \textbf{exceptionnellement face visible} (la référence), même si les joueurs jouent leurs cartes face cachée par-dessus.
+\\
+\\
+\noindent
+\textbf{\emoji{game-die} Tour de jeu.} À ton tour, \textbf{annonce le nombre et la couleur} de la carte que tu joues (par exemple : 9 rouge, 10 vert, etc. ; \textbf{tu peux bien sûr bluffer} \emoji{wink}, mais ça doit correspondre à la référence).
+Ce que tu annonces devient la nouvelle référence pour le joueur suivant.
+\newpage
+\noindent
+\textbf{\emoji{lying-face} Mytho.} Comme pour le Unomito classique, pour contester, un joueur retourne la carte qui vient d’être posée.
+Cette carte devient alors la \textbf{nouvelle référence} (et reste face visible). Les joueurs poursuivent en jouant face cachée.
+}\end{document}

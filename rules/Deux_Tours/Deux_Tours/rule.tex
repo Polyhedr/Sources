@@ -1,0 +1,50 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{pgffor}
+\usepackage{emoji}
+\usepackage{tikz}
+\newcommand{\cardtext}{0-10}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{10+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{6}
+\newcommand{\cardtitle}{DEUX TOURS}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue, 5/mygreen}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{arrows-counterclockwise} Mise en place.} On fait \textbf{6 piles de cartes mélangées face visible} au centre de la table, une pile par couleur.
+Chaque joueur a deux emplacements devant lui pour construire ses tours.
+\\
+\\
+\noindent
+\textbf{\emoji{dart} But du jeu.} Avoir le plus de points ! Le score d’une tour vaut (dernière valeur posée) $\times$
+(nombre de cartes dans la tour).
+\\
+\\
+\noindent
+\textbf{\emoji{video-game} Comment ça marche.} On joue à tour de rôle. À ton tour, tu peux faire \textbf{1 ou 2 actions (mais pas 0 !)}. Voici tes options :
+\begin{itemize}
+\item\textbf{Prendre une carte} d'une des 6 piles pour la mettre dans ta main. 
+\\
+\emoji{warning} Pas plus de 3 cartes en main !
+\item\textbf{Poser une carte} de ta main sur l'une de tes tours. 
+\\
+\emoji{warning} La carte posée doit soit être de \textbf{même valeur}, soit de \textbf{même couleur mais avec une valeur plus élevée} que la dernière carte de la tour (pas de contrainte pour la première carte d'une tour).
+\end{itemize}
+\noindent
+\textbf{\emoji{stop-sign} Fin de partie.}
+Si tu ne peux plus jouer, la partie est finie pour toi !
+Les autres joueurs ont encore un dernier tour chacun avant qu’on compte les points.
+\\
+\\
+\noindent
+\emoji{pushpin} Les cartes dans les tours sont empilées face visible et en décalées pour bien voir combien il y en a.
+}\end{document}

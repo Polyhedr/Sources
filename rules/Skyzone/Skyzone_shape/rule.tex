@@ -1,0 +1,36 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{emoji}
+\usepackage{pgffor}
+\usepackage{tikz}
+\newcommand{\cardtext}{0-12}
+\newcommand{\grouptext}{2-4}
+\newcommand{\agetext}{12+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{6}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue, 5/mygreen}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{party-popper} Variante de Skyzone.} 
+On reprend les règles de Skyzone, mais en utilisant toutes les cartes, pour 2 à 4 joueurs, et avec une seule défausse au lieu de deux.
+\\
+\\
+\noindent
+\emoji{large-orange-diamond} Au lieu de jouer avec les couleurs, on joue avec les formes (\textbf{triangles, carrés, ronds}) !  
+\textbf{À la place des couleurs,} chaque \textbf{zone de cartes adjacentes de même forme} vaut la valeur de la carte \textbf{la plus élevée} dans cette zone.
+\\
+\\
+\noindent
+\textbf{\emoji{cross-mark} Suppression.} 
+Dès que \textbf{2 cartes de même valeur se touchent} (toujours pas en diagonale), elles sont \textbf{immédiatement défaussées}. 
+Place-les dans la défausse dans l'ordre que tu veux.
+}\end{document}
