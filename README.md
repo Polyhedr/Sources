@@ -94,6 +94,7 @@ If you want to modify an existing rule, here are two options:
 Know of or looking for an existing game compatible with **Sources**? This section is for you! 🔍  
 We list games compatible with **Sources** here. If you know of a compatible game not yet listed, feel free to open an issue or submit a pull request! 💡
 
-|Game README|Rule Card|
-|-----------|:-------:|
-| MasterMind| ...|
+|Game Name|Commentary|
+|-------------|-----------|
+|[Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))|The coder selects 4 cards from the first 24 cards (0-3 of the 6 colors) and keeps the remaining 20 face down. These cards are used as clues: "Correct but misplaced": card placed horizontally, face down; "Correct and well placed": card placed vertically, face down. The limited number of cards, compared to the classic Mastermind, does not pose a challenge for a logical player who ensures consistency between their attempts.|
+
