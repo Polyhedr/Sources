@@ -96,6 +96,6 @@ Si tu souhaites modifier une règle existante, voici deux options :
 Tu connais ou cherches un jeu déjà existant compatible avec **Sources** ? Cette section est faite pour toi ! 🔍  
 Nous y répertorions les jeux compatibles avec **Sources**. Si tu connais un jeu compatible qui n’est pas encore dans cette liste, n’hésite pas à ouvrir une issue ou à soumettre une pull request ! 💡
 
-|Nom du jeu|Commentaire|
+|Jeu|Détails|
 |-------------|-----------|
 |[Mastermind](https://fr.wikipedia.org/wiki/Mastermind)|Le codeur sélectionne 4 cartes parmi les 24 premières cartes (0-3 des 6 couleurs) et conserve les 20 restantes face cachées. Ces cartes servent d'indices : "Correct mais mal placé" : carte posée horizontalement, face cachée, "Correct et bien placé" : carte posée verticalement, face cachée. Le nombre limité de cartes, comparé au Mastermind classique, ne pose pas de difficulté pour un joueur logique qui veille à la cohérence de ses tentatives.|
