@@ -1,0 +1,36 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Langue et encodages des polices
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{pgffor}
+\usepackage{emoji}
+\usepackage{tikz}
+\newcommand{\cardtext}{0-12}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{6+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{6}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue, 5/mygreen}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{party-popper} Variante Unomito.} Jouez avec les règles classiques d'Unomito \textbf{ou} la variante 1pile, en incluant maintenant les cartes supplémentaires : \textbf{les cartes numéro 12}.
+\\
+\\
+\noindent
+\textbf{\emoji{game-die} Le 12 est un joker.} Ces 6 cartes supplémentaires fonctionnent comme des jokers, vous permettant de les jouer sans risquer d'être accusé de mentir.
+\\
+\\
+\noindent
+\textbf{\emoji{party-popper} Unomito Classique.} Lorsqu'un 12 est révélé face visible, le joueur qui l'a joué peut choisir sa couleur et son numéro.
+\\
+\\
+\noindent
+\textbf{\emoji{party-popper} Unomito 1pile.} Lorsqu'un 12 est révélé face visible, il adopte la couleur et le numéro déclarés par le joueur au moment où il a été joué face cachée.
+}\end{document}
