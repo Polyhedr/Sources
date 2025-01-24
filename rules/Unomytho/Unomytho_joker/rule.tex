@@ -1,1 +1,36 @@
-
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{pgffor}
+\usepackage{emoji}
+\usepackage{tikz}
+\newcommand{\cardtext}{0-12}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{6+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{english_crop}
+\newcommand{\colorcount}{6}
+\newcommand{\cardtitle}{}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue, 5/mygreen}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+\noindent
+\textbf{\emoji{party-popper} Unomito Variant.} Follow the classic Unomito rules \textbf{or} the 1pile variant, but now include the extra cards: \textbf{the number 12 cards}.
+\\
+\\
+\noindent
+\textbf{\emoji{game-die} The 12 is a joker.} These 6 additional cards function as jokers, allowing you to play them without the risk of being caught as a liar.
+\\
+\\
+\noindent
+\textbf{\emoji{party-popper} Unomito Classic.} When a 12 becomes face up, the player who played it gets to choose its color and number.
+\\
+\\
+\noindent
+\textbf{\emoji{party-popper} Unomito 1pile.} When a 12 becomes face up, it takes on the color and number announced by the player.
+}\end{document}
