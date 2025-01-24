@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  14 DEC 2024 23:40
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 17:56
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -2227,7 +2227,7 @@ halheplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
 <./logo_alpha.png><./qr-code.png><../../../rule_lib/french_crop.png><../../../ru
 le_lib/cards.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../
-../rule_lib/clock.png></tmp/lua_ttlR6K></tmp/lua_9WKdtM>] [2</tmp/lua_ZLBwKf>] 
+../rule_lib/clock.png></tmp/lua_NYMnpD></tmp/lua_YTJ3tf></tmp/lua_2bZCTo>] [2] 
 (./rule.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2240,7 +2240,7 @@ Here is how much of LuaTeX's memory you used:
  1164 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 196 glue_spec
 , 7 attribute_list, 3 write nodes
-   avail lists: 2:1378,3:391,4:19,5:89,6:8,7:956,8:3,9:300,10:2,11:25
+   avail lists: 2:1378,3:391,4:18,5:87,6:8,7:911,8:3,9:299,10:2,11:24
  42238 multiletter control sequences out of 65536+600000
  48 fonts using 8539603 bytes
  72i,11n,71p,464b,867s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -2252,7 +2252,7 @@ sc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn
 6/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></lustre/fshomisc/su
 p/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn6/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on rule.pdf (2 pages, 550617 bytes).
+Output written on rule.pdf (2 pages, 550549 bytes).
 
 PDF statistics: 63 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

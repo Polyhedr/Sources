@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 17:56
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 17:57
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -2185,42 +2185,44 @@ Package microtype Info: Character `textgreater ' is missing
 (microtype)             in font `TU/NotoColorEmoji.ttf(0)/bx/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--35
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--35
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--35
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--35
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--35
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
-[1
 
-{/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhal
-heplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}<./logo_alpha.png
-><./qr-code.png><../../../rule_lib/french_crop.png><../../../rule_lib/cards.png>
-<../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_lib/clock
-.png></tmp/lua_7Pl3Rd></tmp/lua_NV3uKm></tmp/lua_5Yhonq></tmp/lua_fITMp9>]
-Underfull \hbox (badness 10000) in paragraph at lines 42--50
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
-[2</tmp/lua_Cqj7bg></tmp/lua_9YlCDw>] (./rule.aux)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnen
+halheplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+
+<./logo_alpha.png><./qr-code.png><../../../rule_lib/french_crop.png><../../../ru
+le_lib/cards.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../
+../rule_lib/clock.png></tmp/lua_Og4THM></tmp/lua_4TgHaS>] [2] (./rule.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2232,24 +2234,22 @@ Here is how much of LuaTeX's memory you used:
  1164 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 196 glue_spec
 , 7 attribute_list, 3 write nodes
-   avail lists: 2:1406,3:399,4:30,5:125,6:8,7:1193,8:3,9:292,10:3,11:19
+   avail lists: 2:1374,3:395,4:19,5:88,6:8,7:991,8:3,9:302,10:4,11:34
  42238 multiletter control sequences out of 65536+600000
  48 fonts using 8539603 bytes
  72i,11n,71p,465b,867s stack positions out of 5000i,500n,10000p,200000b,100000s
 </lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhal
-heplze6azx7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></lus
-tre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplz
-e6azx7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-bold.otf></lustre/fshom
-isc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sej
-n6/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></lustre/fshomisc/su
+heplze6azx7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-bold.otf></lustre/
+fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6az
+x7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></lustre/fshomi
+sc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn
+6/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></lustre/fshomisc/su
 p/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn6/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></lustre/fshomisc/sup/hpe/spack
-_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn6/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rule.pdf (2 pages, 467755 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on rule.pdf (2 pages, 700108 bytes).
 
-PDF statistics: 73 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
