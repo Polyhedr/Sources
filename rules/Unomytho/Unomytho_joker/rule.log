@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 17:31
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 17:32
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -871,6 +871,27 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@roff=\dimen302
 ))
 (/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
+lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
+lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
+lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
+lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
+lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
+lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
+lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen303
+\pgffor@skip=\dimen304
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
 lheplze6azx7sejn6/texmf-dist/tex/lualatex/emoji/emoji.sty
 Package: emoji 2020/03/16 v0.2 Emoji support in (Lua)LaTeX
 
@@ -911,9 +932,9 @@ X
 \l__fontspec_emdef_int=\count324
 \l__fontspec_strong_int=\count325
 \l__fontspec_strongdef_int=\count326
-\l__fontspec_tmpa_dim=\dimen303
-\l__fontspec_tmpb_dim=\dimen304
-\l__fontspec_tmpc_dim=\dimen305
+\l__fontspec_tmpa_dim=\dimen305
+\l__fontspec_tmpb_dim=\dimen306
+\l__fontspec_tmpc_dim=\dimen307
 
 (/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
 lheplze6azx7sejn6/texmf-dist/tex/latex/base/fontenc.sty
@@ -924,27 +945,6 @@ lheplze6azx7sejn6/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
 lheplze6azx7sejn6/texmf-dist/tex/lualatex/emoji/emoji-table.def
 File: emoji-table.def 2020/03/16 v0.2 Emojisupportin(Lua)LaTeX
-))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen306
-\pgffor@skip=\dimen307
-\pgffor@stack=\toks38
-\pgffor@toks=\toks39
 ))
 (/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
 lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
@@ -2185,62 +2185,59 @@ Package microtype Info: Character `textgreater ' is missing
 (microtype)             in font `TU/NotoColorEmoji.ttf(0)/bx/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--29
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--29
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--29
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Overfull \hbox (3.97467pt too wide) in paragraph at lines 66--29
-\TU/lmr/bx/n/8 of face-down cards\TU/lmr/m/n/8 . The re-main-ing cards
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--29
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--43
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--43
+Underfull \hbox (badness 10000) in paragraph at lines 66--36
 
  []
 
-[1{/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenh
-alheplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnen
+halheplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
 <./logo_alpha.png><./qr-code.png><../../../rule_lib/english_crop.png><../../../r
 ule_lib/cards.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../..
-/../rule_lib/clock.png></tmp/lua_pZgzwP></tmp/lua_0VPtmO></tmp/lua_riaUDD>] [2</
-tmp/lua_ehCFpg></tmp/lua_DSBBMW>] (./rule.aux)
+/../rule_lib/clock.png></tmp/lua_lPBEok></tmp/lua_Kp5S0E>] [2] (./rule.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 25423 strings out of 480992
+ 25431 strings out of 480992
  100000,953878 words of node,token memory allocated
  1164 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 196 glue_spec
 , 7 attribute_list, 3 write nodes
-   avail lists: 2:1324,3:365,4:26,5:125,6:11,7:1335,8:3,9:305,10:4,11:35
- 42230 multiletter control sequences out of 65536+600000
+   avail lists: 2:1374,3:399,4:21,5:97,6:8,7:915,8:3,9:301,10:5,11:26
+ 42238 multiletter control sequences out of 65536+600000
  48 fonts using 8539603 bytes
- 72i,11n,71p,464b,867s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 72i,11n,71p,465b,867s stack positions out of 5000i,500n,10000p,200000b,100000s
 </lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhal
 heplze6azx7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-bold.otf></lustre/
 fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6az
@@ -2248,13 +2245,11 @@ x7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></lustre/fshomi
 sc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn
 6/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></lustre/fshomisc/su
 p/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn6/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></lustre/fshomisc/sup/hpe/spack
-_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn6/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rule.pdf (2 pages, 645826 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on rule.pdf (2 pages, 701236 bytes).
 
-PDF statistics: 71 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
