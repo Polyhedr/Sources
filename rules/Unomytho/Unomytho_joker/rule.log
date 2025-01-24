@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 17:57
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 18:07
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -2185,44 +2185,37 @@ Package microtype Info: Character `textgreater ' is missing
 (microtype)             in font `TU/NotoColorEmoji.ttf(0)/bx/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--36
+Underfull \hbox (badness 10000) in paragraph at lines 66--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--36
+Underfull \hbox (badness 10000) in paragraph at lines 66--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--36
+Underfull \hbox (badness 10000) in paragraph at lines 66--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--36
+Underfull \hbox (badness 10000) in paragraph at lines 66--28
 
  []
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--36
+{/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhal
+heplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}<./logo_alpha.png
+><./qr-code.png><../../../rule_lib/french_crop.png><../../../rule_lib/cards.png>
+<../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_lib/clock
+.png></tmp/lua_V9vlVz></tmp/lua_jIv9PV>]
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--36
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1{/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnen
-halheplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
-
-<./logo_alpha.png><./qr-code.png><../../../rule_lib/french_crop.png><../../../ru
-le_lib/cards.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../
-../rule_lib/clock.png></tmp/lua_Og4THM></tmp/lua_4TgHaS>] [2] (./rule.aux)
+[2] (./rule.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2234,19 +2227,19 @@ Here is how much of LuaTeX's memory you used:
  1164 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 196 glue_spec
 , 7 attribute_list, 3 write nodes
-   avail lists: 2:1374,3:395,4:19,5:88,6:8,7:991,8:3,9:302,10:4,11:34
+   avail lists: 2:1340,3:384,4:16,5:97,6:7,7:677,8:3,9:271,10:4,11:26
  42238 multiletter control sequences out of 65536+600000
  48 fonts using 8539603 bytes
  72i,11n,71p,465b,867s stack positions out of 5000i,500n,10000p,200000b,100000s
 </lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhal
-heplze6azx7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-bold.otf></lustre/
-fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6az
-x7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></lustre/fshomi
-sc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn
-6/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></lustre/fshomisc/su
+heplze6azx7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></lus
+tre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplz
+e6azx7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-bold.otf></lustre/fshom
+isc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sej
+n6/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></lustre/fshomisc/su
 p/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn6/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on rule.pdf (2 pages, 700108 bytes).
+Output written on rule.pdf (2 pages, 699968 bytes).
 
 PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

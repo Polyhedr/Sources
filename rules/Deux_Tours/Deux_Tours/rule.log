@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 17:56
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 18:06
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -2215,12 +2215,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--35
 heplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}<./logo_alpha.png
 ><./qr-code.png><../../../rule_lib/french_crop.png><../../../rule_lib/cards.png>
 <../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_lib/clock
-.png></tmp/lua_7Pl3Rd></tmp/lua_NV3uKm></tmp/lua_5Yhonq></tmp/lua_fITMp9>]
+.png></tmp/lua_C86BuM></tmp/lua_FvTPeP></tmp/lua_GSTM3K></tmp/lua_lBHs61>]
 Underfull \hbox (badness 10000) in paragraph at lines 42--50
 
  []
 
-[2</tmp/lua_Cqj7bg></tmp/lua_9YlCDw>] (./rule.aux)
+[2</tmp/lua_3CWJ54></tmp/lua_FKek5r>] (./rule.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
