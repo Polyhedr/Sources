@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 17:32
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 18:17
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -2221,7 +2221,7 @@ Overfull \hbox (4.28003pt too wide) in paragraph at lines 66--38
 heplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}<./logo_alpha.png
 ><./qr-code.png><../../../rule_lib/english_crop.png><../../../rule_lib/cards.png
 ><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_lib/cloc
-k.png></tmp/lua_PKDRmS></tmp/lua_LYck7J></tmp/lua_8sqTaG>]
+k.png></tmp/lua_2752y9></tmp/lua_3eByRi></tmp/lua_DabuRn>]
 Overfull \hbox (1.08545pt too wide) in paragraph at lines 43--44
 []\TU/lmr/m/n/8 Oth-er-wise, the bluffer \TU/lmr/bx/n/8 draws \TU/lmr/m/n/8 a ca
 rd
@@ -2237,7 +2237,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--56
 
  []
 
-[2</tmp/lua_WuaYGd></tmp/lua_2CMlDJ></tmp/lua_4Zu8IS></tmp/lua_7RT73r>]
+[2</tmp/lua_nP3OZI></tmp/lua_AExt1p></tmp/lua_7dp6nN></tmp/lua_C9fMV1>]
 (./rule.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
