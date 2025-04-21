@@ -21,7 +21,7 @@ Et ce n’est pas tout : le jeu est conçu pour évoluer grâce à sa communaut�
 
 
 ## Les cartes Sources 🃏🎴  
-**Sources** contient 78 cartes, réparties en **13 valeurs** (de 0 à 12) et **6 couleurs** (jaune, orange, rouge, violet, bleu, et vert). Sur le plan esthétique, chaque couleur est associée à un motif distinct : par exemple, le rouge est symbolisé par le feu, le bleu par l’eau, etc.
+Le jeu **Sources** se compose de 81 cartes, réparties en **13 valeurs** (allant de 0 à 12) et **6 couleurs** (jaune, orange, rouge, violet, bleu et vert), ainsi que 3 cartes joker (valeur ∞). Sur le plan esthétique, chaque couleur est associée à un motif distinct : par exemple, le rouge est symbolisé par le feu, le bleu par l’eau, etc.
 
 <p align="center">
 <img src="assets/some_cards.jpg">
