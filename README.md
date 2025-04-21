@@ -19,7 +19,7 @@ Sources is an innovative card game where every playthrough is unique: just pick 
 </h6>
 
 ## Sources Cards 🃏🎴
-**Sources** contains 78 cards, divided into **13 values** (from 0 to 12) and **6 colors** (yellow, orange, red, purple, blue, and green). Aesthetically, each color is linked to a distinct motif: for example, red is symbolized by fire, blue by water, etc.
+The **Sources** deck consists of 81 cards, which are categorized into **13 values** (ranging from 0 to 12) and **6 colors** (yellow, orange, red, purple, blue, and green), along with 3 joker cards (value ∞). Aesthetically, each color is linked to a distinct motif: for example, red is symbolized by fire, blue by water, etc.
 
 <p align="center">
 <img src="assets/some_cards.jpg">
