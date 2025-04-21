@@ -1,4 +1,4 @@
-import os
+import os, subprocess
 import glob
 from pathlib import Path
 import cv2
@@ -73,7 +73,7 @@ def main(dpi, padding, output_folder):
         game_path = Path(rule_path).parent
 
         # get the pdf with lualatex
-        os.system(fr"cd {game_path};lualatex rule.tex")
+        subprocess.run(["lualatex", "rule.tex"], cwd=game_path)
 
         # convert the pdf to png with ImageMagick
         os.system(f"convert -density {dpi} {rule_path.replace('.tex','.pdf')} -quality 100 {rule_path.replace('.tex','.png')}")
@@ -94,7 +94,7 @@ def main(dpi, padding, output_folder):
             canvas = 255*np.ones((pixel_height + 2*padding, pixel_width + 2*padding, 3), dtype=np.uint8)
             canvas[padding:-padding,padding:-padding] = card_side * alpha_layer + canvas[padding:-padding,padding:-padding] * (1 - alpha_layer)
             cv2.imwrite(os.path.join(output_folder, Path(card_side_path).stem + '-' + game_path.stem + '.png'), canvas)
-            os.system(f'rm {card_side_path}')
+            os.remove(card_side_path)
 
 if __name__ == "__main__":
     args = get_args()
