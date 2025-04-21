@@ -1,103 +1,86 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020 - Spack)  (format=lualatex 2022.8.25)  24 JAN 2025 18:16
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  21 APR 2025 15:35
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
-LaTeX2e <2020-02-02> patch level 5
-Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
-Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
-n
-Lua module: lualibs 2020-02-02 2.70 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2020-02-02 2.70 ConTeXt Lua libraries -- extended c
-ollection.
-Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
-Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
-Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
-ig file reader
-luaotfload | conf : Root cache directory is /linkhome/rech/gendkn01/ujn76wl/.tex
-live2020/texmf-var/luatex-cache/generic-dev/names.
-luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
--resolved path “/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1
--dmlrkk2kzxnenhalheplze6azx7sejn6/texmf-dist/tex/luatex/luaotfload/fontloader-20
-20-01-26.lua”.
-Lua-only attribute luaotfload@state = 2
-Lua-only attribute luaotfload@noligature = 3
-Lua-only attribute luaotfload@syllabe = 4
-luaotfload | init : Context OpenType loader version “3.11”
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Lua module: luaotfload-loaders 2020-02-02 3.12 luaotfload submodule / callback h
-andling
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua module: luaotfload-database 2020-02-02 3.12 luaotfload submodule / database
-Lua module: luaotfload-unicode 2020-02-02 3.12 luaotfload submodule / Unicode he
-lpers
-Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
-Lua-only attribute luaotfload_color_attribute = 5
-Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolver
-s
-luaotfload | conf : Root cache directory is /linkhome/rech/gendkn01/ujn76wl/.tex
-live2020/texmf-var/luatex-cache/generic-dev/names.
-Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
-Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-notdef 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-harf-define 2020-02-02 3.12 luaotfload submodule / databa
-se
-Lua module: luaotfload-script 2020-02-02 3.12 luaotfload submodule / Script help
-ers
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Lua module: luaotfload-harf-plug 2020-02-02 3.12 luaotfload submodule / database
-Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'
-.
-Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
-Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
-Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
-Lua module: luaotfload-auxiliary 2020-02-02 3.12 luaotfload submodule / auxiliar
-y functions
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
-t'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Lua module: luaotfload-fallback 2020-02-02 3.12 luaotfload submodule / fallback
-Lua module: luaotfload-multiscript 2020-02-02 3.12 luaotfload submodule / multis
-cript
-Lua module: luaotfload-tounicode 2020-02-02 3.12 luaotfload submodule / tounicod
-e
-Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-03-06>
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2020/03/25 v3.7k configurable book, report, article docum
-ent class
-\onelineskip=\skip47
-\lxvchars=\skip48
-\xlvchars=\skip49
-\@memcnta=\count163
-\c@@memmarkcntra=\count164
-LaTeX Info: Redefining \InputIfFileExists on input line 140.
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-10-09>
+Lua module: luaotfload 2024-02-14 v3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
+luaotfload | conf : Root cache directory is "C:/Users/pierreper/AppData/Local/Mi
+KTeX/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/luatex/luaotflo
+ad/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/pierreper/AppData/Local/Mi
+KTeX/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/pierreper/App
+Data/Local/Programs/MiKTeX/tex/latex/memoir/memoir.cls
+Document Class: memoir 2024/01/26 v3.8.2 configurable book, report, article doc
+ument class
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-10-09 L3 programming layer (loader) 
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend
+-luatex.def
+File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count194
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box52
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/x
+parse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
 )
-\stockheight=\skip50
-\stockwidth=\skip51
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+))
+\onelineskip=\skip49
+\lxvchars=\skip50
+\xlvchars=\skip51
+\@memcnta=\count196
+\c@@memmarkcntra=\count197
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
 \trimtop=\skip52
 \trimedge=\skip53
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/memoir/mem10.clo
-File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
-luaotfload | db : Font names database loaded from /linkhome/rech/gendkn01/ujn76w
-l/.texlive2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/memoir/mem10.clo
+File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
+luaotfload | db : Font names database loaded from C:/Users/pierreper/AppData/Loc
+al/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \binding=\skip54
 \spinemargin=\skip55
 \foremargin=\skip56
@@ -108,20 +91,20 @@ l/.texlive2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \mem@maxheadheight=\skip61
 \mem@maxfootheight=\skip62
 \headwidth=\skip63
-\c@storedpagenumber=\count165
-\memPD=\dimen134
+\c@storedpagenumber=\count198
+\memPD=\dimen140
 \m@mabparskip=\skip64
 \thanksmarkwidth=\skip65
 \thanksmarksep=\skip66
 \droptitle=\skip67
-\c@book=\count166
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
+\c@book=\count199
+\c@part=\count266
+\c@chapter=\count267
+\c@section=\count268
+\c@subsection=\count269
+\c@subsubsection=\count270
+\c@paragraph=\count271
+\c@subparagraph=\count272
 \beforechapskip=\skip68
 \midchapskip=\skip69
 \afterchapskip=\skip70
@@ -143,10 +126,10 @@ l/.texlive2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \beforesubparaskip=\skip86
 \aftersubparaskip=\skip87
 \pfbreakskip=\skip88
-\c@@ppsavesec=\count174
-\c@@ppsaveapp=\count175
-\ragrparindent=\dimen135
-\everylistparindent=\dimen136
+\c@@ppsavesec=\count273
+\c@@ppsaveapp=\count274
+\ragrparindent=\dimen141
+\everylistparindent=\dimen142
 \parsepi=\skip89
 \topsepi=\skip90
 \itemsepi=\skip91
@@ -159,90 +142,90 @@ l/.texlive2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \partopsepiii=\skip98
 \m@msavetopsep=\skip99
 \m@msavepartopsep=\skip100
-\@enLab=\toks15
+\@enLab=\toks17
 \abstitleskip=\skip101
 \absleftindent=\skip102
-\abs@leftindent=\dimen137
+\abs@leftindent=\dimen143
 \absrightindent=\skip103
 \absparindent=\skip104
 \absparsep=\skip105
-\c@vslineno=\count176
-\c@poemline=\count177
-\c@modulo@vs=\count178
-\c@memfvsline=\count179
+\c@vslineno=\count275
+\c@poemline=\count276
+\c@modulo@vs=\count277
+\c@memfvsline=\count278
 \vleftskip=\skip106
 \vrightskip=\skip107
 \stanzaskip=\skip108
 \versewidth=\skip109
 \vgap=\skip110
 \vindent=\skip111
-\vleftmargin=\dimen138
-\c@verse=\count180
-\c@chrsinstr=\count181
+\vleftmargin=\dimen144
+\c@verse=\count279
+\c@chrsinstr=\count280
 \beforepoemtitleskip=\skip112
 \afterpoemtitleskip=\skip113
-\c@poem=\count182
+\c@poem=\count281
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen139
-\ar@mcellbox=\box45
-\extrarowheight=\dimen140
-\NC@list=\toks16
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen145
+\ar@mcellbox=\box53
+\extrarowheight=\dimen146
+\NC@list=\toks18
 \extratabsurround=\skip117
 \backup@length=\skip118
-\ar@cellbox=\box46
+\ar@cellbox=\box54
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/tools/dcolumn.sty
-Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/tools/delarray.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/delarray.sty
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+) (C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.st
+y
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen147
+\TX@old@table=\dimen148
+\TX@old@col=\dimen149
+\TX@target=\dimen150
+\TX@delta=\dimen151
+\TX@cols=\count282
+\TX@ftn=\toks19
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen141
-\TX@old@table=\dimen142
-\TX@old@col=\dimen143
-\TX@target=\dimen144
-\TX@delta=\dimen145
-\TX@cols=\count183
-\TX@ftn=\toks17
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.s
+ty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count283
+\@cmidlb=\count284
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count285
+\@lastruleclass=\count286
+\@thisrulewidth=\dimen164
 )
-\heavyrulewidth=\dimen146
-\lightrulewidth=\dimen147
-\cmidrulewidth=\dimen148
-\belowrulesep=\dimen149
-\belowbottomsep=\dimen150
-\aboverulesep=\dimen151
-\abovetopsep=\dimen152
-\cmidrulesep=\dimen153
-\cmidrulekern=\dimen154
-\defaultaddspace=\dimen155
-\@cmidla=\count184
-\@cmidlb=\count185
-\@aboverulesep=\dimen156
-\@belowrulesep=\dimen157
-\@thisruleclass=\count186
-\@lastruleclass=\count187
-\@thisrulewidth=\dimen158
 \ctableftskip=\skip119
 \ctabrightskip=\skip120
-\abovecolumnspenalty=\count188
-\@linestogo=\count189
-\@cellstogo=\count190
-\@cellsincolumn=\count191
-\crtok=\toks18
-\@mincolumnwidth=\dimen159
-\c@newflo@tctr=\count192
-\mem@margin@floatbox=\box47
+\abovecolumnspenalty=\count287
+\@linestogo=\count288
+\@cellstogo=\count289
+\@cellsincolumn=\count290
+\crtok=\toks20
+\@mincolumnwidth=\dimen165
+\c@newflo@tctr=\count291
+\mem@margin@floatbox=\box55
 \@contcwidth=\skip121
 \@contindw=\skip122
 \abovecaptionskip=\skip123
@@ -252,29 +235,64 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \subfloatcaptopadj=\skip127
 \subfloatbottomskip=\skip128
 \subfloatlabelskip=\skip129
-\subfloatcapmargin=\dimen160
-\c@@contsubnum=\count193
-\m@mscap@capbox=\box48
-\m@mscap@fbox=\box49
-\sidecapsep=\dimen161
-\sidecapwidth=\dimen162
-\m@m@tempdima=\dimen163
-\m@mscapraise=\dimen164
-\sidecapraise=\dimen165
-\m@mscapmainwidth=\dimen166
-\m@mscaplkern=\dimen167
+\subfloatcapmargin=\dimen166
+\c@@contsubnum=\count292
+\m@mscap@capbox=\box56
+\m@mscap@fbox=\box57
+\sidecapsep=\dimen167
+\sidecapwidth=\dimen168
+\m@m@tempdima=\dimen169
+\m@mscapraise=\dimen170
+\sidecapraise=\dimen171
+\m@mscapmainwidth=\dimen172
+\m@mscaplkern=\dimen173
 \beforeepigraphskip=\skip130
 \afterepigraphskip=\skip131
 \epigraphwidth=\skip132
 \epigraphrule=\skip133
-LaTeX Info: Redefining \em on input line 7664.
-LaTeX Info: Redefining \emph on input line 7672.
+LaTeX Info: Redefining \em on input line 6932.
+LaTeX Info: Redefining \emph on input line 6940.
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.st
+y
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.s
+ty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.s
+ty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/ge
+ttitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions
+.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys
+.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count293
+)
 \tocentryskip=\skip134
 \tocbaseline=\skip135
 \cftparskip=\skip136
 \cftbeforebookskip=\skip137
-\cftbookindent=\dimen168
-\cftbooknumwidth=\dimen169
+\cftbookindent=\dimen174
+\cftbooknumwidth=\dimen175
 \cftbeforepartskip=\skip138
 \cftpartindent=\skip139
 \cftpartnumwidth=\skip140
@@ -296,18 +314,20 @@ LaTeX Info: Redefining \emph on input line 7672.
 \cftbeforesubparagraphskip=\skip156
 \cftsubparagraphindent=\skip157
 \cftsubparagraphnumwidth=\skip158
-\prechapterprecisshift=\dimen170
-\c@maxsecnumdepth=\count194
-\bibindent=\dimen171
+\prechapterprecisshift=\dimen176
+\c@maxsecnumdepth=\count294
+\bibindent=\dimen177
 \bibitemsep=\skip159
 \indexcolsep=\skip160
 \indexrule=\skip161
-\indexmarkstyle=\toks19
-\@indexbox=\insert199
-\glossarycolsep=\dimen172
-\glossaryrule=\dimen173
+\indexmarkstyle=\toks22
+\@indexbox=\insert252
+LaTeX Info: Redefining \raggedbottom on input line 7935.
+LaTeX Info: Redefining \flushbottom on input line 7939.
+\glossarycolsep=\dimen178
+\glossaryrule=\dimen179
 \sideparvshift=\skip162
-\sideins=\insert198
+\sideins=\insert251
 \sidebartopsep=\skip163
 \sidebarhsep=\skip164
 \sidebarvsep=\skip165
@@ -316,75 +336,79 @@ LaTeX Info: Redefining \emph on input line 7672.
 \footmarksep=\skip168
 \footparindent=\skip169
 \footinsdim=\skip170
-\footinsv@r=\insert197
-\@mpfootinsv@r=\insert196
-\m@m@k=\count195
-\m@m@h=\dimen174
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count295
+\m@m@h=\dimen180
 \m@mipn@skip=\skip171
-\sidefootins=\insert252
+\sidefootins=\insert248
 \sidefootadjust=\skip172
 \sidefootheight=\skip173
 \sidefoothsep=\skip174
 \sidefootvsep=\skip175
 \sidefootwidth=\skip176
 \m@mdownsf=\skip177
-\c@sidefootnote=\count266
+\c@sidefootnote=\count296
 \sidefootmarkwidth=\skip178
 \sidefootmarksep=\skip179
 \sidefootparindent=\skip180
-\c@pagenote=\count267
-\c@pagenoteshadow=\count268
+\c@pagenote=\count297
+\c@pagenoteshadow=\count298
 \mem@pn@lastkern=\skip181
-\every@verbatim=\toks20
-\afterevery@verbatim=\toks21
-\verbatim@line=\toks22
-\tab@position=\count269
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
 \verbatim@in@stream=\read2
+)
 \verbatimindent=\skip182
 \verbatim@out=\write3
-\bvboxsep=\skip183
-\c@memfbvline=\count270
-\c@bvlinectr=\count271
-\bvnumlength=\skip184
-\fb@frw=\dimen175
-\fb@frh=\dimen176
-\FrameRule=\dimen177
-\FrameSep=\dimen178
-\c@cp@cntr=\count272
-LaTeX Info: Redefining \: on input line 12191.
-LaTeX Info: Redefining \! on input line 12193.
-\c@ism@mctr=\count273
-\c@xsm@mctr=\count274
-\c@csm@mctr=\count275
-\c@ksm@mctr=\count276
-\c@xksm@mctr=\count277
-\c@cksm@mctr=\count278
-\c@msm@mctr=\count279
-\c@xmsm@mctr=\count280
-\c@cmsm@mctr=\count281
-\c@bsm@mctr=\count282
-\c@workm@mctr=\count283
-\c@sheetsequence=\count284
-\c@lastsheet=\count285
-\c@lastpage=\count286
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/textcase/textcase.sty
-Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/base/shortvrb.sty
+Package: shortvrb 2024/10/23 v3.0q Standard LaTeX documentation package V3 (FMi
 )
-\c@figure=\count287
-\c@lofdepth=\count288
+)
+\bvboxsep=\skip183
+\c@memfbvline=\count299
+\c@bvlinectr=\count300
+\bvnumlength=\skip184
+\fb@frw=\dimen181
+\fb@frh=\dimen182
+\FrameRule=\dimen183
+\FrameSep=\dimen184
+\c@cp@cntr=\count301
+\c@ism@mctr=\count302
+\c@xsm@mctr=\count303
+\c@csm@mctr=\count304
+\c@ksm@mctr=\count305
+\c@xksm@mctr=\count306
+\c@cksm@mctr=\count307
+\c@msm@mctr=\count308
+\c@xmsm@mctr=\count309
+\c@cmsm@mctr=\count310
+\c@bsm@mctr=\count311
+\c@workm@mctr=\count312
+\c@sheetsequence=\count313
+\c@lastsheet=\count314
+\c@lastpage=\count315
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.s
+ty
+Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+\c@figure=\count316
+\c@lofdepth=\count317
 \cftbeforefigureskip=\skip185
 \cftfigureindent=\skip186
 \cftfigurenumwidth=\skip187
-\c@table=\count289
-\c@lotdepth=\count290
+\c@table=\count318
+\c@lotdepth=\count319
 \cftbeforetableskip=\skip188
 \cfttableindent=\skip189
 \cfttablenumwidth=\skip190
 Package abstract [2008/07/23] emulated by memoir.
 Package appendix [2008/07/23] emulated by memoir.
-Package booktabs [2016/05/16] emulated by memoir.
 Package ccaption [2008/07/23] emulated by memoir.
 Package changepage [2008/07/23] emulated by memoir.
 Package chngcntr [2008/07/23] emulated by memoir.
@@ -396,7 +420,6 @@ Package ifmtarg [2008/07/23] emulated by memoir.
 Package index [2008/07/23] emulated by memoir.
 Package makeidx [2008/07/23] emulated by memoir.
 Package moreverb [2008/07/23] emulated by memoir.
-Package mparhack [2008/07/23] emulated by memoir.
 Package needspace [2008/07/23] emulated by memoir.
 Package newfile [2008/07/23] emulated by memoir.
 Package nextpage [2008/07/23] emulated by memoir.
@@ -414,581 +437,527 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.s
+ty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks23
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.s
+ty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphi
+cs.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 105.
+Package graphics Info: Driver file: luatex.def on input line 106.
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex
+.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen179
-\Gin@req@width=\dimen180
+\Gin@req@height=\dimen185
+\Gin@req@width=\dimen186
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-\MT@toks=\toks24
-\MT@count=\count291
-LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen181
-LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count292
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype
+.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+\MT@toks=\toks25
+\MT@tempbox=\box58
+\MT@count=\count320
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks26
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen187
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count321
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/microtype/microtype-luatex.def
-File: microtype-luatex.def 2019/11/18 v2.7d Definitions specific to luatex (RS)
-Module microtype Info: overwriting function `keepligature' on input line 59
-LaTeX Info: Redefining \lsstyle on input line 695.
-LaTeX Info: Redefining \lslig on input line 695.
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype
+-luatex.def
+File: microtype-luatex.def 2024/03/29 v3.1b Definitions specific to luatex (RS)
+
+Lua module: microtype 2024/03/29 v3.1b microtype module.
+Module microtype Info: overwriting function `keepligature' on input line 63
+LaTeX Info: Redefining \lsstyle on input line 693.
+LaTeX Info: Redefining \lslig on input line 693.
 \MT@outer@space=\skip191
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype
+.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
 ))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/geometry/geometry.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.s
+ty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count293
-\Gm@cntv=\count294
-\c@Gm@tempcnt=\count295
-\Gm@bindingoffset=\dimen182
-\Gm@wd@mp=\dimen183
-\Gm@odd@mp=\dimen184
-\Gm@even@mp=\dimen185
-\Gm@layoutwidth=\dimen186
-\Gm@layoutheight=\dimen187
-\Gm@layouthoffset=\dimen188
-\Gm@layoutvoffset=\dimen189
-\Gm@dimlist=\toks25
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+\Gm@cnth=\count322
+\Gm@cntv=\count323
+\c@Gm@tempcnt=\count324
+\Gm@bindingoffset=\dimen188
+\Gm@wd@mp=\dimen189
+\Gm@odd@mp=\dimen190
+\Gm@even@mp=\dimen191
+\Gm@layoutwidth=\dimen192
+\Gm@layoutheight=\dimen193
+\Gm@layouthoffset=\dimen194
+\Gm@layoutvoffset=\dimen195
+\Gm@dimlist=\toks27
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/ms/everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.c
+fg))
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragged2e.s
+ty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip192
 \RaggedLeftLeftskip=\skip193
 \RaggedRightLeftskip=\skip194
 \CenteringRightskip=\skip195
-\RaggedLeftRightskip=\skip256
-\RaggedRightRightskip=\skip257
-\CenteringParfillskip=\skip258
-\RaggedLeftParfillskip=\skip259
-\RaggedRightParfillskip=\skip260
-\JustifyingParfillskip=\skip261
-\CenteringParindent=\skip262
-\RaggedLeftParindent=\skip263
-\RaggedRightParindent=\skip264
-\JustifyingParindent=\skip265
+\RaggedLeftRightskip=\skip196
+\RaggedRightRightskip=\skip197
+\CenteringParfillskip=\skip198
+\RaggedLeftParfillskip=\skip199
+\RaggedRightParfillskip=\skip256
+\JustifyingParfillskip=\skip257
+\CenteringParindent=\skip258
+\RaggedLeftParindent=\skip259
+\RaggedRightParindent=\skip260
+\JustifyingParindent=\skip261
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjustbox
+.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks26
-\XKV@tempa@toks=\toks27
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.t
+ex
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.
+tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
 )
-\XKV@depth=\count296
+\XKV@depth=\count325
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-
-ends (calc, etex, pgfmath)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjcalc.s
+ty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/adjustbox/trimclip.sty
-Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/trimclip.
+sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/collectbox/collectbox.sty
-Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box50
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/collectbox/collectb
+ox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box59
 )
-\tc@llx=\dimen190
-\tc@lly=\dimen191
-\tc@urx=\dimen192
-\tc@ury=\dimen193
+\tc@llx=\dimen196
+\tc@lly=\dimen197
+\tc@urx=\dimen198
+\tc@ury=\dimen199
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/adjustbox/tc-pgf.def
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/tc-pgf.de
+f
 File: tc-pgf.def 2019/01/04 v2.2 trimclip fall-back clipping driver using PGF
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen194
-\pgfutil@tempdimb=\dimen195
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgf.
+sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrc
+s.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
+util-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen256
+\pgfutil@tempdimb=\dimen257
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
+util-latex.def
+\pgfutil@abb=\box60
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
+rcs.code.tex
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revision.
+tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box51
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgfc
+ore.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlayer/pgf
+sys.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
+gfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
+keys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
+keyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
 ))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
-))
-Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks29
-\pgfkeys@temptoks=\toks30
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks31
-))
-\pgf@x=\dimen256
-\pgf@y=\dimen257
-\pgf@xa=\dimen258
-\pgf@ya=\dimen259
-\pgf@xb=\dimen260
-\pgf@yb=\dimen261
-\pgf@xc=\dimen262
-\pgf@yc=\dimen263
-\pgf@xd=\dimen264
-\pgf@yd=\dimen265
+\pgf@x=\dimen258
+\pgf@y=\dimen259
+\pgf@xa=\dimen260
+\pgf@ya=\dimen261
+\pgf@xb=\dimen262
+\pgf@yb=\dimen263
+\pgf@xc=\dimen264
+\pgf@yc=\dimen265
+\pgf@xd=\dimen266
+\pgf@yd=\dimen267
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count297
-\c@pgf@countb=\count298
-\c@pgf@countc=\count299
-\c@pgf@countd=\count300
-\t@pgf@toka=\toks32
-\t@pgf@tokb=\toks33
-\t@pgf@tokc=\toks34
-\pgf@sys@id@count=\count301
+\c@pgf@counta=\count326
+\c@pgf@countb=\count327
+\c@pgf@countc=\count328
+\c@pgf@countd=\count329
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count330
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
+gf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-luatex.def
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
-File: pgfsys-luatex.def 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
+gfsys-luatex.def
+File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
+gfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.te
-x
-File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count302
-\pgfsyssoftpath@bigbuffer@items=\count303
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
+gfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count331
+\pgfsyssoftpath@bigbuffer@items=\count332
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.te
-x
-File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
+gfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.
+cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+Package xcolor Info: Driver file: luatex.def on input line 274.
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen266
-\pgfmath@count=\count304
-\pgfmath@box=\box52
-\pgfmath@toks=\toks35
-\pgfmath@stack@operand=\toks36
-\pgfmath@stack@operation=\toks37
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.
+ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.t
-ex)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometri
-c.code.tex)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.
-tex)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.c
-ode.tex)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.te
-x)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.t
-ex)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.te
-x)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarith
-metics.code.tex)))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count305
-))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen267
-\pgf@picmaxx=\dimen268
-\pgf@picminy=\dimen269
-\pgf@picmaxy=\dimen270
-\pgf@pathminx=\dimen271
-\pgf@pathmaxx=\dimen272
-\pgf@pathminy=\dimen273
-\pgf@pathmaxy=\dimen274
-\pgf@xx=\dimen275
-\pgf@xy=\dimen276
-\pgf@yx=\dimen277
-\pgf@yy=\dimen278
-\pgf@zx=\dimen279
-\pgf@zy=\dimen280
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.co
-de.tex
-File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen281
-\pgf@path@lasty=\dimen282
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.t
-ex
-File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen283
-\pgf@shorten@start@additional=\dimen284
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfpic=\box53
-\pgf@hbox=\box54
-\pgf@layerbox@main=\box55
-\pgf@picture@serial@count=\count306
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.cod
-e.tex
-File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen285
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.
 code.tex
-File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen286
-\pgf@pt@y=\dimen287
-\pgf@pt@temp=\dimen288
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathu
+til.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathp
+arser.code.tex
+\pgfmath@dimen=\dimen268
+\pgfmath@count=\count333
+\pgfmath@box=\box61
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.c
-ode.tex
-File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen289
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen290
-\pgf@sys@shading@range@num=\count307
-\pgf@shadingcount=\count308
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.te
-x
-File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfexternal@startupbox=\box56
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.basic.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.trigonometric.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.random.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.comparison.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.base.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.round.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.misc.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+unctions.integerarithmetics.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathc
+alc.code.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
+loat.code.tex
+\c@pgfmathroundto@lastzeros=\count334
 ))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfint.c
+ode.tex)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen269
+\pgf@picmaxx=\dimen270
+\pgf@picminy=\dimen271
+\pgf@picmaxy=\dimen272
+\pgf@pathminx=\dimen273
+\pgf@pathmaxx=\dimen274
+\pgf@pathminy=\dimen275
+\pgf@pathmaxy=\dimen276
+\pgf@xx=\dimen277
+\pgf@xy=\dimen278
+\pgf@yx=\dimen279
+\pgf@yy=\dimen280
+\pgf@zx=\dimen281
+\pgf@zy=\dimen282
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.cod
-e.tex
-File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen283
+\pgf@path@lasty=\dimen284
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.te
-x
-File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen285
+\pgf@shorten@start@additional=\dimen286
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count335
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen287
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen288
+\pgf@pt@y=\dimen289
+\pgf@pt@temp=\dimen290
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen291
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen292
+\pgf@sys@shading@range@num=\count336
+\pgf@shadingcount=\count337
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box65
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
+fcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box57
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmo
+duleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box66
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmo
+duleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.s
-ty
-Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen291
-\pgf@nodesepend=\dimen292
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/p
+gfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen293
+\pgf@nodesepend=\dimen294
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.s
-ty
-Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/p
+gfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )))
 Package trimclip Info: No clipping driver 'tc-luatex.def' available.
 (trimclip)             Using fall-back PGF driver.
 )
-\adjbox@Width=\dimen293
-\adjbox@Height=\dimen294
-\adjbox@Depth=\dimen295
-\adjbox@Totalheight=\dimen296
-\adjbox@pwidth=\dimen297
-\adjbox@pheight=\dimen298
-\adjbox@pdepth=\dimen299
-\adjbox@ptotalheight=\dimen300
+\adjbox@Width=\dimen295
+\adjbox@Height=\dimen296
+\adjbox@Depth=\dimen297
+\adjbox@Totalheight=\dimen298
+\adjbox@pwidth=\dimen299
+\adjbox@pheight=\dimen300
+\adjbox@pdepth=\dimen301
+\adjbox@ptotalheight=\dimen302
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count309
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/ifoddpage/ifoddpage
+.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count338
 LaTeX Info: Redefining \checkoddpage on input line 45.
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/varwidth/varwidth.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.s
+ty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box58
-\sift@deathcycles=\count310
-\@vwid@loff=\dimen301
-\@vwid@roff=\dimen302
+\@vwid@box=\box67
+\sift@deathcycles=\count339
+\@vwid@loff=\dimen303
+\@vwid@roff=\dimen304
 ))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/lualatex/emoji/emoji.sty
-Package: emoji 2020/03/16 v0.2 Emoji support in (Lua)LaTeX
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/emoji/emoji.sty
+Package: emoji 2021/07/17 v0.2.2 Emoji support in (Lua)LaTeX
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-03-06 L3 programming layer (loader) 
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.s
+ty
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-l
+uatex.sty
+Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count340
+\l__fontspec_language_int=\count341
+\l__fontspec_strnum_int=\count342
+\l__fontspec_tmp_int=\count343
+\l__fontspec_tmpa_int=\count344
+\l__fontspec_tmpb_int=\count345
+\l__fontspec_tmpc_int=\count346
+\l__fontspec_em_int=\count347
+\l__fontspec_emdef_int=\count348
+\l__fontspec_strong_int=\count349
+\l__fontspec_strongdef_int=\count350
+\l__fontspec_tmpa_dim=\dimen305
+\l__fontspec_tmpb_dim=\dimen306
+\l__fontspec_tmpc_dim=\dimen307
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count311
-\l__pdf_internal_box=\box59
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.c
+fg)))
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/emoji/emoji-table.d
+ef
+File: emoji-table.def 2021/07/17 v0.2.2 Emojisupportin(Lua)LaTeX
 ))
-Package: xparse 2020-03-06 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count312
-\g__xparse_grabber_int=\count313
-\l__xparse_m_args_int=\count314
-\l__xparse_v_nesting_int=\count315
-)
-Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count316
-\l__fontspec_language_int=\count317
-\l__fontspec_strnum_int=\count318
-\l__fontspec_tmp_int=\count319
-\l__fontspec_tmpa_int=\count320
-\l__fontspec_tmpb_int=\count321
-\l__fontspec_tmpc_int=\count322
-\l__fontspec_em_int=\count323
-\l__fontspec_emdef_int=\count324
-\l__fontspec_strong_int=\count325
-\l__fontspec_strongdef_int=\count326
-\l__fontspec_tmpa_dim=\dimen303
-\l__fontspec_tmpb_dim=\dimen304
-\l__fontspec_tmpc_dim=\dimen305
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-)
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/lualatex/emoji/emoji-table.def
-File: emoji-table.def 2020/03/16 v0.2 Emojisupportin(Lua)LaTeX
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgffo
+r.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfke
+ys.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
+keys.code.tex))
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/math/pgfmath.st
+y
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.
+code.tex))
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
+for.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen308
+\pgffor@skip=\dimen309
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
 ))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlayer/t
+ikz.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer
+/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen306
-\pgffor@skip=\dimen307
-\pgffor@stack=\toks38
-\pgffor@toks=\toks39
-))
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.c
-ode.tex
-File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count327
-\pgfplotmarksize=\dimen308
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgf
+libraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count351
+\pgfplotmarksize=\dimen310
 )
-\tikz@lastx=\dimen309
-\tikz@lasty=\dimen310
-\tikz@lastxsaved=\dimen311
-\tikz@lastysaved=\dimen312
-\tikz@lastmovetox=\dimen313
-\tikz@lastmovetoy=\dimen314
-\tikzleveldistance=\dimen315
-\tikzsiblingdistance=\dimen316
-\tikz@figbox=\box60
-\tikz@figbox@bg=\box61
-\tikz@tempbox=\box62
-\tikz@tempbox@bg=\box63
-\tikztreelevel=\count328
-\tikznumberofchildren=\count329
-\tikznumberofcurrentchild=\count330
-\tikz@fig@count=\count331
+\tikz@lastx=\dimen311
+\tikz@lasty=\dimen312
+\tikz@lastxsaved=\dimen313
+\tikz@lastysaved=\dimen314
+\tikz@lastmovetox=\dimen315
+\tikz@lastmovetoy=\dimen316
+\tikzleveldistance=\dimen317
+\tikzsiblingdistance=\dimen318
+\tikz@figbox=\box68
+\tikz@figbox@bg=\box69
+\tikz@tempbox=\box70
+\tikz@tempbox@bg=\box71
+\tikztreelevel=\count352
+\tikznumberofchildren=\count353
+\tikznumberofcurrentchild=\count354
+\tikz@fig@count=\count355
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count332
-\pgfmatrixcurrentcolumn=\count333
-\pgf@matrix@numberofcolumns=\count334
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmo
+dulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count356
+\pgfmatrixcurrentcolumn=\count357
+\pgf@matrix@numberofcolumns=\count358
 )
-\tikz@expandcount=\count335
+\tikz@expandcount=\count359
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzl
-ibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (./rule.aux)
 \openout1 = rule.aux
 
@@ -1001,13 +970,6 @@ LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 19
-.
-
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -1016,48 +978,52 @@ LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pd
+f.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count336
-\scratchdimen=\dimen317
-\scratchbox=\box64
-\nofMPsegments=\count337
-\nofMParguments=\count338
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count339
-\MPscratchDim=\dimen318
-\MPnumerator=\count340
-\makeMPintoPDFobject=\count341
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count360
+\scratchdimen=\dimen319
+\scratchbox=\box72
+\nofMPsegments=\count361
+\nofMParguments=\count362
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count363
+\MPscratchDim=\dimen320
+\MPnumerator=\count364
+\makeMPintoPDFobject=\count365
+\everyMPtoPDFconversion=\toks43
 )
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstop
+df-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
-5.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Info: Redefining \microtypecontext on input line 19.
+Package microtype Info: Applying patch `item' on input line 19.
+Package microtype Info: Applying patch `toc' on input line 19.
+Package microtype Info: Applying patch `eqnum' on input line 19.
+Package microtype Info: Applying patch `footnote' on input line 19.
+Package microtype Info: Applying patch `verbatim' on input line 19.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: Using default expansion set `alltext-nott'.
 LaTeX Info: Redefining \showhyphens on input line 19.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mode
-rn Roman (RS)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-LatinM
+odernRoman.cfg
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
+ern Roman (RS)
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1093,11 +1059,9 @@ rn Roman (RS)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 19.
- ABD: EveryShipout initializing macros
 
-Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
@@ -1153,44 +1117,43 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 19.
-luaotfload | cache : Lookup cache loaded from /linkhome/rech/gendkn01/ujn76wl/.t
-exlive2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from C:/Users/pierreper/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
-Package fontspec Info: Font family 'NotoColorEmoji(0)' created for font 'Noto
-(fontspec)             Color Emoji' with options
-(fontspec)             [BoldFont={},ItalicFont={},SmallCapsFont={},Renderer=Harf
-Buzz].
+Package fontspec Info: 
+(fontspec)             Font family 'SegoeUIEmoji(0)' created for font 'Segoe
+(fontspec)             UI Emoji' with options
+(fontspec)             [BoldFont={},ItalicFont={},SmallCapsFont={},Renderer=Har
+fBuzz].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"NotoColorEmoji:mode=harf;script=DFLT;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"name:Segoe UI
+(fontspec)             Emoji:mode=harf;script=latn;language=dflt;"
 
 (../../../rule_lib/rule_lib.tex
 
-Package fontspec Info: Font family 'NotoColorEmoji.ttf(0)' created for font
+Package fontspec Info: 
+(fontspec)             Font family 'NotoColorEmoji.ttf(0)' created for font
 (fontspec)             'NotoColorEmoji.ttf' with options
-(fontspec)             [BoldFont={},ItalicFont={},SmallCapsFont={},Renderer=Harf
-Buzz,Path=../../../fonts/noto-emoji/].
+(fontspec)             [BoldFont={},ItalicFont={},SmallCapsFont={},Renderer=Har
+fBuzz,Path=../../../fonts/noto-emoji/].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[../../../fonts/noto-emoji/NotoColorEmoji.ttf]:mode=h
-arf;script=DFLT;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             <->"[../../../fonts/noto-emoji/NotoColorEmoji.ttf]:mode=
+harf;script=DFLT;language=dflt;"
 
-\boxwidth=\skip266
-\boxheight=\skip267
-\boxx=\skip268
-\boxy=\skip269
-\boxspacex=\skip270
-\boxspacey=\skip271
-\coldotspace=\skip272
+\boxwidth=\skip262
+\boxheight=\skip263
+\boxx=\skip264
+\boxy=\skip265
+\boxspacex=\skip266
+\boxspacey=\skip267
+\coldotspace=\skip268
 <logo_alpha.png, id=4, 1806.75pt x 626.34pt>
 File: logo_alpha.png Graphic file (type png)
 <use logo_alpha.png>
@@ -1204,8 +1167,8 @@ Package luatex.def Info: qr-code.png  used on input line 35.
 <../../../rule_lib/english_crop.png, id=6, 513.92pt x 343.2825pt>
 File: ../../../rule_lib/english_crop.png Graphic file (type png)
 <use ../../../rule_lib/english_crop.png>
-Package luatex.def Info: ../../../rule_lib/english_crop.png  used on input line 
-38.
+Package luatex.def Info: ../../../rule_lib/english_crop.png  used on input line
+ 38.
 (luatex.def)             Requested size: 12.6331pt x 7.57947pt.
 <../../../rule_lib/cards.png, id=7, 385.44pt x 385.44pt>
 File: ../../../rule_lib/cards.png Graphic file (type png)
@@ -1234,650 +1197,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 62.
 
-(/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenha
-lheplze6azx7sejn6/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
-RS)
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cf
+g
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
 ))
 
 LaTeX Font Warning: Font shape `TU/NotoColorEmoji.ttf(0)/bx/n' undefined
-(Font)              using `TU/NotoColorEmoji.ttf(0)/m/n' instead on input line 2
-3.
+(Font)              using `TU/NotoColorEmoji.ttf(0)/m/n' instead on input line 
+23.
 
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-TU-bas
+ic.cfg
+File: mt-TU-basic.cfg 2021/06/22 v1.1 microtype config. file: fonts with basic 
+glyph set (RS)
+)
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NotoColorEmoji.ttf' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\~A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\r A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\k A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\~a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\r a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\k a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'C'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c C'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v C'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'c'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c c'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v c'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v D'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v d'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\k E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\k e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u G'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u g'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`I'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'I'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^I'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"I'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\.I'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`i'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'i'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^i'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"i'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'L'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v L'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'l'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v l'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'N'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\~N'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v N'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'n'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\~n'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v n'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`O'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'O'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^O'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\~O'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"O'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H O'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`o'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'o'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^o'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\~o'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"o'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H o'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'R'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v R'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'r'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v r'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'S'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c S'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v S'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'s'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c s'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v s'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c T'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v T'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c t'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v t'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\r U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\`u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\^u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\r u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'Y'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"Y'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'y'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\"y'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'Z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\.Z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v Z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\.z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
 Package microtype Info: Character `A' is missing
 (microtype)             in font `TU/NotoColorEmoji.ttf(0)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2200,11 +1539,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--29
  []
 
 
-Overfull \hbox (3.97467pt too wide) in paragraph at lines 66--29
-\TU/lmr/bx/n/8 of face-down cards\TU/lmr/m/n/8 . The re-main-ing cards
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 66--29
 
  []
@@ -2219,42 +1553,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--43
 
  []
 
-[1{/lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenh
-alheplze6azx7sejn6/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+
+
+[1{C:/Users/pierreper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 <./logo_alpha.png><./qr-code.png><../../../rule_lib/english_crop.png><../../../r
 ule_lib/cards.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../..
-/../rule_lib/clock.png></tmp/lua_b8GVZl></tmp/lua_4UqaJg></tmp/lua_5G4aJa>] [2</
-tmp/lua_yHD0yE></tmp/lua_W29Ww5>] (./rule.aux)
+/../rule_lib/clock.png><./luatex.vyf000/1.png><./luatex.vyf000/2.png><./luatex.v
+yf000/3.png>]
+
+[2<./luatex.vyf000/4.png><./luatex.vyf000/5.png>] (./rule.aux)
+ ***********
+LaTeX2e <2024-11-01>
+L3 programming layer <2020/03/25>
+ ***********
+
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 25423 strings out of 480992
- 100000,953878 words of node,token memory allocated
- 1164 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 196 glue_spec
-, 7 attribute_list, 3 write nodes
-   avail lists: 2:1324,3:365,4:26,5:125,6:11,7:1335,8:3,9:305,10:4,11:35
- 42230 multiletter control sequences out of 65536+600000
- 48 fonts using 8539603 bytes
- 72i,11n,71p,464b,867s stack positions out of 5000i,500n,10000p,200000b,100000s
-</lustre/fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhal
-heplze6azx7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-bold.otf></lustre/
-fshomisc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6az
-x7sejn6/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></lustre/fshomi
-sc/sup/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn
-6/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></lustre/fshomisc/su
-p/hpe/spack_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn6/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></lustre/fshomisc/sup/hpe/spack
-_soft/texlive/20200406/gcc-8.4.1-dmlrkk2kzxnenhalheplze6azx7sejn6/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rule.pdf (2 pages, 645826 bytes).
+ 27229 strings out of 475684
+ 125240,1144653 words of node,token memory allocated
+ 1210 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 1 margin_ke
+rn, 4 glyph, 8 attribute, 193 glue_spec, 8 attribute_list, 3 write nodes
+   avail lists: 1:3,2:1328,3:723,4:49,5:149,6:22,7:2191,8:3,9:604,10:4,11:50
+ 49520 multiletter control sequences out of 65536+600000
+ 38 fonts using 34900903 bytes
+ 109i,11n,105p,1000b,881s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/users/pierreper/appdata/local/programs/miktex/fonts/opentype/public/lm/lmrom
+an8-bold.otf><c:/users/pierreper/appdata/local/programs/miktex/fonts/opentype/pu
+blic/lm/lmroman8-regular.otf><c:/users/pierreper/appdata/local/programs/miktex/f
+onts/opentype/public/lm/lmroman10-regular.otf><C:/Users/pierreper/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pierreper/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on rule.pdf (2 pages, 649717 bytes).
 
-PDF statistics: 71 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
