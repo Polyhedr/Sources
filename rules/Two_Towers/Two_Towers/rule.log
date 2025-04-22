@@ -1,18 +1,18 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  21 APR 2025 15:36
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.10.24)  22 APR 2025 08:58
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
-LaTeX2e <2024-11-01>
-L3 programming layer <2024-10-09>
-Lua module: luaotfload 2024-02-14 v3.28 Lua based OpenType font support
-Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
-collection.
-luaotfload | conf : Root cache directory is "C:/Users/pierreper/AppData/Local/Mi
-KTeX/luatex-cache/generic/names".
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/pierr/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
-olved path "C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/luatex/luaotflo
-ad/fontloader-2023-12-28.lua".
+olved path "C:/Program Files/MiKTeX/tex/luatex/luaotfload/fontloader-2023-12-28.
+lua".
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.134
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
@@ -20,8 +20,8 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "C:/Users/pierreper/AppData/Local/Mi
-KTeX/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "C:/Users/pierr/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -39,48 +39,45 @@ Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/pierreper/App
-Data/Local/Programs/MiKTeX/tex/latex/memoir/memoir.cls
+Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/pierr/AppData
+/Roaming/MiKTeX/tex/latex/memoir/memoir.cls
 Document Class: memoir 2024/01/26 v3.8.2 configurable book, report, article doc
 ument class
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-10-09 L3 programming layer (loader) 
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/xpatch/xpatch.sty
+("C:/Program Files/MiKTeX/tex/latex/l3kernel/expl3.sty"
+Package: expl3 2024-09-10 L3 programming layer (loader) 
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend
--luatex.def
+("C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-luatex.def"
 File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count194
+\l__color_backend_stack_int=\count192
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box52
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/x
-parse.sty
+("C:/Program Files/MiKTeX/tex/latex/l3packages/xparse/xparse.sty"
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.s
-ty
+("C:/Program Files/MiKTeX/tex/latex/etoolbox/etoolbox.sty"
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count195
+\etb@tempcnta=\count193
 ))
 \onelineskip=\skip49
 \lxvchars=\skip50
 \xlvchars=\skip51
-\@memcnta=\count196
-\c@@memmarkcntra=\count197
+\@memcnta=\count194
+\c@@memmarkcntra=\count195
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+("C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty"
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 \trimtop=\skip52
 \trimedge=\skip53
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/memoir/mem10.clo
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/memoir/mem10.clo
 File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
-luaotfload | db : Font names database loaded from C:/Users/pierreper/AppData/Loc
-al/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+luaotfload | db : Font names database loaded from C:/Users/pierr/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \binding=\skip54
 \spinemargin=\skip55
 \foremargin=\skip56
@@ -91,20 +88,20 @@ al/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \mem@maxheadheight=\skip61
 \mem@maxfootheight=\skip62
 \headwidth=\skip63
-\c@storedpagenumber=\count198
+\c@storedpagenumber=\count196
 \memPD=\dimen140
 \m@mabparskip=\skip64
 \thanksmarkwidth=\skip65
 \thanksmarksep=\skip66
 \droptitle=\skip67
-\c@book=\count199
-\c@part=\count266
-\c@chapter=\count267
-\c@section=\count268
-\c@subsection=\count269
-\c@subsubsection=\count270
-\c@paragraph=\count271
-\c@subparagraph=\count272
+\c@book=\count197
+\c@part=\count198
+\c@chapter=\count199
+\c@section=\count266
+\c@subsection=\count267
+\c@subsubsection=\count268
+\c@paragraph=\count269
+\c@subparagraph=\count270
 \beforechapskip=\skip68
 \midchapskip=\skip69
 \afterchapskip=\skip70
@@ -126,8 +123,8 @@ al/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \beforesubparaskip=\skip86
 \aftersubparaskip=\skip87
 \pfbreakskip=\skip88
-\c@@ppsavesec=\count273
-\c@@ppsaveapp=\count274
+\c@@ppsavesec=\count271
+\c@@ppsaveapp=\count272
 \ragrparindent=\dimen141
 \everylistparindent=\dimen142
 \parsepi=\skip89
@@ -149,10 +146,10 @@ al/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \absrightindent=\skip103
 \absparindent=\skip104
 \absparsep=\skip105
-\c@vslineno=\count275
-\c@poemline=\count276
-\c@modulo@vs=\count277
-\c@memfvsline=\count278
+\c@vslineno=\count273
+\c@poemline=\count274
+\c@modulo@vs=\count275
+\c@memfvsline=\count276
 \vleftskip=\skip106
 \vrightskip=\skip107
 \stanzaskip=\skip108
@@ -160,17 +157,17 @@ al/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \vgap=\skip110
 \vindent=\skip111
 \vleftmargin=\dimen144
-\c@verse=\count279
-\c@chrsinstr=\count280
+\c@verse=\count277
+\c@chrsinstr=\count278
 \beforepoemtitleskip=\skip112
 \afterpoemtitleskip=\skip113
-\c@poem=\count281
+\c@poem=\count279
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
-Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+("C:/Program Files/MiKTeX/tex/latex/tools/array.sty"
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \col@sep=\dimen145
 \ar@mcellbox=\box53
 \extrarowheight=\dimen146
@@ -179,24 +176,23 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \backup@length=\skip118
 \ar@cellbox=\box54
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/dcolumn.sty
+("C:/Program Files/MiKTeX/tex/latex/tools/dcolumn.sty"
 Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/delarray.sty
+("C:/Program Files/MiKTeX/tex/latex/tools/delarray.sty"
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
-) (C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.st
-y
+)
+("C:/Program Files/MiKTeX/tex/latex/tools/tabularx.sty"
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen147
 \TX@old@table=\dimen148
 \TX@old@col=\dimen149
 \TX@target=\dimen150
 \TX@delta=\dimen151
-\TX@cols=\count282
+\TX@cols=\count280
 \TX@ftn=\toks19
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.s
-ty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen152
 \lightrulewidth=\dimen153
@@ -208,23 +204,23 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen159
 \cmidrulekern=\dimen160
 \defaultaddspace=\dimen161
-\@cmidla=\count283
-\@cmidlb=\count284
+\@cmidla=\count281
+\@cmidlb=\count282
 \@aboverulesep=\dimen162
 \@belowrulesep=\dimen163
-\@thisruleclass=\count285
-\@lastruleclass=\count286
+\@thisruleclass=\count283
+\@lastruleclass=\count284
 \@thisrulewidth=\dimen164
 )
 \ctableftskip=\skip119
 \ctabrightskip=\skip120
-\abovecolumnspenalty=\count287
-\@linestogo=\count288
-\@cellstogo=\count289
-\@cellsincolumn=\count290
+\abovecolumnspenalty=\count285
+\@linestogo=\count286
+\@cellstogo=\count287
+\@cellsincolumn=\count288
 \crtok=\toks20
 \@mincolumnwidth=\dimen165
-\c@newflo@tctr=\count291
+\c@newflo@tctr=\count289
 \mem@margin@floatbox=\box55
 \@contcwidth=\skip121
 \@contindw=\skip122
@@ -236,7 +232,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \subfloatbottomskip=\skip128
 \subfloatlabelskip=\skip129
 \subfloatcapmargin=\dimen166
-\c@@contsubnum=\count292
+\c@@contsubnum=\count290
 \m@mscap@capbox=\box56
 \m@mscap@fbox=\box57
 \sidecapsep=\dimen167
@@ -253,39 +249,32 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 LaTeX Info: Redefining \em on input line 6932.
 LaTeX Info: Redefining \emph on input line 6940.
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.st
-y
+("C:/Program Files/MiKTeX/tex/latex/hyperref/nameref.sty"
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.s
-ty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.s
-ty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infware
-rr.sty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/ge
-ttitlestring.sty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/generic/gettitlestring/gettitlestrin
+g.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions
-.sty
+ (C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+("C:/Program Files/MiKTeX/tex/latex/graphics/keyval.sty"
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys
-.sty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
-\c@section@level=\count293
+\c@section@level=\count291
 )
 \tocentryskip=\skip134
 \tocbaseline=\skip135
@@ -315,7 +304,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \cftsubparagraphindent=\skip157
 \cftsubparagraphnumwidth=\skip158
 \prechapterprecisshift=\dimen176
-\c@maxsecnumdepth=\count294
+\c@maxsecnumdepth=\count292
 \bibindent=\dimen177
 \bibitemsep=\skip159
 \indexcolsep=\skip160
@@ -338,7 +327,7 @@ LaTeX Info: Redefining \flushbottom on input line 7939.
 \footinsdim=\skip170
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
-\m@m@k=\count295
+\m@m@k=\count293
 \m@m@h=\dimen180
 \m@mipn@skip=\skip171
 \sidefootins=\insert248
@@ -348,15 +337,15 @@ LaTeX Info: Redefining \flushbottom on input line 7939.
 \sidefootvsep=\skip175
 \sidefootwidth=\skip176
 \m@mdownsf=\skip177
-\c@sidefootnote=\count296
+\c@sidefootnote=\count294
 \sidefootmarkwidth=\skip178
 \sidefootmarksep=\skip179
 \sidefootparindent=\skip180
-\c@pagenote=\count297
-\c@pagenoteshadow=\count298
+\c@pagenote=\count295
+\c@pagenoteshadow=\count296
 \mem@pn@lastkern=\skip181
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty
+("C:/Program Files/MiKTeX/tex/latex/tools/verbatim.sty"
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks23
 \verbatim@line=\toks24
@@ -364,46 +353,46 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 )
 \verbatimindent=\skip182
 \verbatim@out=\write3
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/base/shortvrb.sty
-Package: shortvrb 2024/10/23 v3.0q Standard LaTeX documentation package V3 (FMi
+
+("C:/Program Files/MiKTeX/tex/latex/base/shortvrb.sty"
+Package: shortvrb 2024/04/26 v3.0p Standard LaTeX documentation package V3 (FMi
 )
 )
 \bvboxsep=\skip183
-\c@memfbvline=\count299
-\c@bvlinectr=\count300
+\c@memfbvline=\count297
+\c@bvlinectr=\count298
 \bvnumlength=\skip184
 \fb@frw=\dimen181
 \fb@frh=\dimen182
 \FrameRule=\dimen183
 \FrameSep=\dimen184
-\c@cp@cntr=\count301
-\c@ism@mctr=\count302
-\c@xsm@mctr=\count303
-\c@csm@mctr=\count304
-\c@ksm@mctr=\count305
-\c@xksm@mctr=\count306
-\c@cksm@mctr=\count307
-\c@msm@mctr=\count308
-\c@xmsm@mctr=\count309
-\c@cmsm@mctr=\count310
-\c@bsm@mctr=\count311
-\c@workm@mctr=\count312
-\c@sheetsequence=\count313
-\c@lastsheet=\count314
-\c@lastpage=\count315
+\c@cp@cntr=\count299
+\c@ism@mctr=\count300
+\c@xsm@mctr=\count301
+\c@csm@mctr=\count302
+\c@ksm@mctr=\count303
+\c@xksm@mctr=\count304
+\c@cksm@mctr=\count305
+\c@msm@mctr=\count306
+\c@xmsm@mctr=\count307
+\c@cmsm@mctr=\count308
+\c@bsm@mctr=\count309
+\c@workm@mctr=\count310
+\c@sheetsequence=\count311
+\c@lastsheet=\count312
+\c@lastpage=\count313
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.s
-ty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/textcase/textcase.sty
 Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
 )
-\c@figure=\count316
-\c@lofdepth=\count317
+\c@figure=\count314
+\c@lofdepth=\count315
 \cftbeforefigureskip=\skip185
 \cftfigureindent=\skip186
 \cftfigurenumwidth=\skip187
-\c@table=\count318
-\c@lotdepth=\count319
+\c@table=\count316
+\c@lotdepth=\count317
 \cftbeforetableskip=\skip188
 \cfttableindent=\skip189
 \cfttablenumwidth=\skip190
@@ -437,36 +426,31 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.s
-ty
+("C:/Program Files/MiKTeX/tex/latex/graphics/graphicx.sty"
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.s
-ty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+("C:/Program Files/MiKTeX/tex/latex/graphics/graphics.sty"
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+("C:/Program Files/MiKTeX/tex/latex/graphics/trig.sty"
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphi
-cs.cfg
+("C:/Program Files/MiKTeX/tex/latex/graphics-cfg/graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 106.
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex
-.def
+("C:/Program Files/MiKTeX/tex/latex/graphics-def/luatex.def"
 File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
 ))
 \Gin@req@height=\dimen185
 \Gin@req@width=\dimen186
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype
-.sty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/microtype/microtype.sty
 Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
 \MT@toks=\toks25
 \MT@tempbox=\box58
-\MT@count=\count320
+\MT@count=\count318
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
 LaTeX Info: Redefining \leftprotrusion on input line 1062.
 \MT@prot@toks=\toks26
@@ -474,34 +458,30 @@ LaTeX Info: Redefining \rightprotrusion on input line 1081.
 LaTeX Info: Redefining \textls on input line 1392.
 \MT@outer@kern=\dimen187
 LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
-\MT@listname@count=\count321
+\MT@listname@count=\count319
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype
--luatex.def
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/microtype/microtype-luatex.def
 File: microtype-luatex.def 2024/03/29 v3.1b Definitions specific to luatex (RS)
 
-Lua module: microtype 2024/03/29 v3.1b microtype module.
+Lua module: microtype 2024/03/29 3.1b microtype module.
 Module microtype Info: overwriting function `keepligature' on input line 63
 LaTeX Info: Redefining \lsstyle on input line 693.
 LaTeX Info: Redefining \lslig on input line 693.
 \MT@outer@space=\skip191
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype
-.cfg
+ (C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
 ))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.s
-ty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+("C:/Program Files/MiKTeX/tex/generic/iftex/ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count322
-\Gm@cntv=\count323
-\c@Gm@tempcnt=\count324
+\Gm@cnth=\count320
+\Gm@cntv=\count321
+\c@Gm@tempcnt=\count322
 \Gm@bindingoffset=\dimen188
 \Gm@wd@mp=\dimen189
 \Gm@odd@mp=\dimen190
@@ -512,10 +492,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen195
 \Gm@dimlist=\toks27
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.c
-fg))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragged2e.s
-ty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/geometry/geometry.cfg))
+("C:/Program Files/MiKTeX/tex/latex/ragged2e/ragged2e.sty"
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip192
 \RaggedLeftLeftskip=\skip193
@@ -532,34 +510,28 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedRightParindent=\skip260
 \JustifyingParindent=\skip261
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjustbox
-.sty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
+("C:/Program Files/MiKTeX/tex/latex/xkeyval/xkeyval.sty"
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.t
-ex
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.
-tex
+("C:/Program Files/MiKTeX/tex/generic/xkeyval/xkeyval.tex"
+("C:/Program Files/MiKTeX/tex/generic/xkeyval/xkvutils.tex"
 \XKV@toks=\toks28
 \XKV@tempa@toks=\toks29
 )
-\XKV@depth=\count325
+\XKV@depth=\count323
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjcalc.s
-ty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/trimclip.
-sty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/adjustbox/trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/collectbox/collectb
-ox.sty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box59
 )
@@ -568,47 +540,36 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@urx=\dimen198
 \tc@ury=\dimen199
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/tc-pgf.de
-f
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/adjustbox/tc-pgf.def
 File: tc-pgf.def 2019/01/04 v2.2 trimclip fall-back clipping driver using PGF
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgf.
-sty
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrc
-s.sty
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
-util-common.tex
+("C:/Program Files/MiKTeX/tex/latex/pgf/basiclayer/pgf.sty"
+("C:/Program Files/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty"
+("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfutil-common.tex"
 \pgfutil@everybye=\toks30
 \pgfutil@tempdima=\dimen256
 \pgfutil@tempdimb=\dimen257
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
-util-latex.def
+("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfutil-latex.def"
 \pgfutil@abb=\box60
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
-rcs.code.tex
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revision.
-tex)
+("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfrcs.code.tex"
+("C:/Program Files/MiKTeX/tex/generic/pgf/pgf.revision.tex")
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgfc
-ore.sty
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlayer/pgf
-sys.sty
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
-gfsys.code.tex
+("C:/Program Files/MiKTeX/tex/latex/pgf/basiclayer/pgfcore.sty"
+("C:/Program Files/MiKTeX/tex/latex/pgf/systemlayer/pgfsys.sty"
+("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsys.code.tex"
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
-keys.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks31
 \pgfkeys@temptoks=\toks32
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
-keyslibraryfiltered.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code
+.tex"
 \pgfkeys@tmptoks=\toks33
 ))
 \pgf@x=\dimen258
@@ -623,50 +584,41 @@ keyslibraryfiltered.code.tex
 \pgf@yd=\dimen267
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count326
-\c@pgf@countb=\count327
-\c@pgf@countc=\count328
-\c@pgf@countd=\count329
+\c@pgf@counta=\count324
+\c@pgf@countb=\count325
+\c@pgf@countc=\count326
+\c@pgf@countd=\count327
 \t@pgf@toka=\toks34
 \t@pgf@tokb=\toks35
 \t@pgf@tokc=\toks36
-\pgf@sys@id@count=\count330
-
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
-gf.cfg
+\pgf@sys@id@count=\count328
+ ("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgf.cfg"
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-luatex.def
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
-gfsys-luatex.def
+("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsys-luatex.def"
 File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
-gfsys-common-pdf.def
+("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-)))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
-gfsyssoftpath.code.tex
+))) ("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.t
+ex"
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count331
-\pgfsyssoftpath@bigbuffer@items=\count332
-)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/p
-gfsysprotocol.code.tex
+\pgfsyssoftpath@smallbuffer@items=\count329
+\pgfsyssoftpath@bigbuffer@items=\count330
+) ("C:/Program Files/MiKTeX/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+"
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+)) ("C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty"
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.
-cfg
+("C:/Program Files/MiKTeX/tex/latex/graphics-cfg/color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 274.
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.
-ltx)
+("C:/Program Files/MiKTeX/tex/latex/graphics/mathcolor.ltx")
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -677,51 +629,37 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcore.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcore.code.tex"
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.
-code.tex
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathu
-til.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathp
-arser.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmath.code.tex"
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathutil.code.tex")
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen268
-\pgfmath@count=\count333
+\pgfmath@count=\count331
 \pgfmath@box=\box61
 \pgfmath@toks=\toks37
 \pgfmath@stack@operand=\toks38
 \pgfmath@stack@operation=\toks39
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.basic.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.trigonometric.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.random.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.comparison.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.base.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.round.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.misc.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-unctions.integerarithmetics.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathc
-alc.code.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathf
-loat.code.tex
-\c@pgfmathroundto@lastzeros=\count334
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.code.tex")
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex"
+)
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.trigonometric.c
+ode.tex")
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+")
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.comparison.code
+.tex")
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.base.code.tex") ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.round.code.tex") ("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex")
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfunctions.integerarithmet
+ics.code.tex")
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathcalc.code.tex")
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count332
 ))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfint.c
-ode.tex)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorepoints.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfint.code.tex")
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen269
 \pgf@picmaxx=\dimen270
@@ -738,104 +676,86 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@zx=\dimen281
 \pgf@zy=\dimen282
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorepathconstruct.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.
+tex"
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen283
 \pgf@path@lasty=\dimen284
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorepathusage.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen285
 \pgf@shorten@start@additional=\dimen286
-)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorescopes.code.tex
+) ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box62
 \pgf@hbox=\box63
 \pgf@layerbox@main=\box64
-\pgf@picture@serial@count=\count335
+\pgf@picture@serial@count=\count333
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcoregraphicstate.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.t
+ex"
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen287
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcoretransformations.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoretransformations.cod
+e.tex"
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen288
 \pgf@pt@y=\dimen289
 \pgf@pt@temp=\dimen290
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorequick.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcoreobjects.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorepathprocessing.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code
+.tex"
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorearrows.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen291
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcoreshade.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen292
-\pgf@sys@shading@range@num=\count336
-\pgf@shadingcount=\count337
+\pgf@sys@shading@range@num=\count334
+\pgf@shadingcount=\count335
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcoreimage.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcoreexternal.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box65
-)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorelayers.code.tex
+) ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcoretransparency.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcoretransparency.code.t
+ex"
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorepatterns.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pg
-fcorerdf.code.tex
+) ("C:/Program Files/MiKTeX/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex"
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmo
-duleshapes.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/modules/pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box66
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmo
-duleplot.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/modules/pgfmoduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/p
-gfcomp-version-0-65.sty
+("C:/Program Files/MiKTeX/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen293
 \pgf@nodesepend=\dimen294
-)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/p
-gfcomp-version-1-18.sty
+) ("C:/Program Files/MiKTeX/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y"
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )))
 Package trimclip Info: No clipping driver 'tc-luatex.def' available.
@@ -849,84 +769,68 @@ Package trimclip Info: No clipping driver 'tc-luatex.def' available.
 \adjbox@pheight=\dimen300
 \adjbox@pdepth=\dimen301
 \adjbox@ptotalheight=\dimen302
-
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/ifoddpage/ifoddpage
-.sty
+ (C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count338
+\c@checkoddpage=\count336
 LaTeX Info: Redefining \checkoddpage on input line 45.
-)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.s
-ty
+) (C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box67
-\sift@deathcycles=\count339
+\sift@deathcycles=\count337
 \@vwid@loff=\dimen303
 \@vwid@roff=\dimen304
 ))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgffo
-r.sty
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfke
-ys.sty
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
-keys.code.tex))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/math/pgfmath.st
-y
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.
-code.tex))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgf
-for.code.tex
+("C:/Program Files/MiKTeX/tex/latex/pgf/utilities/pgffor.sty"
+("C:/Program Files/MiKTeX/tex/latex/pgf/utilities/pgfkeys.sty"
+("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgfkeys.code.tex"))
+("C:/Program Files/MiKTeX/tex/latex/pgf/math/pgfmath.sty"
+("C:/Program Files/MiKTeX/tex/generic/pgf/math/pgfmath.code.tex"))
+("C:/Program Files/MiKTeX/tex/generic/pgf/utilities/pgffor.code.tex"
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen305
 \pgffor@skip=\dimen306
 \pgffor@stack=\toks40
 \pgffor@toks=\toks41
 ))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/emoji/emoji.sty
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/emoji/emoji.sty
 Package: emoji 2021/07/17 v0.2.2 Emoji support in (Lua)LaTeX
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.s
-ty
+("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec.sty"
 Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-l
-uatex.sty
+Lua module: fontspec 2024/05/11 2.9e Font selection for XeLaTeX and LuaLaTeX
+("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec-luatex.sty"
 Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count340
-\l__fontspec_language_int=\count341
-\l__fontspec_strnum_int=\count342
-\l__fontspec_tmp_int=\count343
-\l__fontspec_tmpa_int=\count344
-\l__fontspec_tmpb_int=\count345
-\l__fontspec_tmpc_int=\count346
-\l__fontspec_em_int=\count347
-\l__fontspec_emdef_int=\count348
-\l__fontspec_strong_int=\count349
-\l__fontspec_strongdef_int=\count350
+\l__fontspec_script_int=\count338
+\l__fontspec_language_int=\count339
+\l__fontspec_strnum_int=\count340
+\l__fontspec_tmp_int=\count341
+\l__fontspec_tmpa_int=\count342
+\l__fontspec_tmpb_int=\count343
+\l__fontspec_tmpc_int=\count344
+\l__fontspec_em_int=\count345
+\l__fontspec_emdef_int=\count346
+\l__fontspec_strong_int=\count347
+\l__fontspec_strongdef_int=\count348
 \l__fontspec_tmpa_dim=\dimen307
 \l__fontspec_tmpb_dim=\dimen308
 \l__fontspec_tmpc_dim=\dimen309
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+("C:/Program Files/MiKTeX/tex/latex/base/fontenc.sty"
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.c
-fg)))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/emoji/emoji-table.d
-ef
+("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec.cfg")))
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/emoji/emoji-table.def
 File: emoji-table.def 2021/07/17 v0.2.2 Emojisupportin(Lua)LaTeX
 ))
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlayer/t
-ikz.sty
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer
-/tikz/tikz.code.tex
+("C:/Program Files/MiKTeX/tex/latex/pgf/frontendlayer/tikz.sty"
+("C:/Program Files/MiKTeX/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex"
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgf
-libraryplothandlers.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/libraries/pgflibraryplothandlers.code
+.tex"
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count351
+\pgf@plot@mark@count=\count349
 \pgfplotmarksize=\dimen310
 )
 \tikz@lastx=\dimen311
@@ -941,22 +845,21 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box69
 \tikz@tempbox=\box70
 \tikz@tempbox@bg=\box71
-\tikztreelevel=\count352
-\tikznumberofchildren=\count353
-\tikznumberofcurrentchild=\count354
-\tikz@fig@count=\count355
+\tikztreelevel=\count350
+\tikznumberofchildren=\count351
+\tikznumberofcurrentchild=\count352
+\tikz@fig@count=\count353
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmo
-dulematrix.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/modules/pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count356
-\pgfmatrixcurrentcolumn=\count357
-\pgf@matrix@numberofcolumns=\count358
+\pgfmatrixcurrentrow=\count354
+\pgfmatrixcurrentcolumn=\count355
+\pgf@matrix@numberofcolumns=\count356
 )
-\tikz@expandcount=\count359
+\tikz@expandcount=\count357
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer
-/tikz/libraries/tikzlibrarytopaths.code.tex
+("C:/Program Files/MiKTeX/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibr
+arytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (./rule.aux)
 \openout1 = rule.aux
@@ -970,6 +873,12 @@ LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+9.
+
+("C:/Program Files/MiKTeX/tex/latex/base/ts1cmr.fd"
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -978,29 +887,25 @@ LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pd
-f.mkii
+("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count360
+\scratchcounter=\count358
 \scratchdimen=\dimen319
 \scratchbox=\box72
-\nofMPsegments=\count361
-\nofMParguments=\count362
+\nofMPsegments=\count359
+\nofMParguments=\count360
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count363
+\MPscratchCnt=\count361
 \MPscratchDim=\dimen320
-\MPnumerator=\count364
-\makeMPintoPDFobject=\count365
+\MPnumerator=\count362
+\makeMPintoPDFobject=\count363
 \everyMPtoPDFconversion=\toks43
-)
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstop
-df-base.sty
+) ("C:/Program Files/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-s
-ys.cfg
+("C:/Program Files/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg"
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Info: Redefining \microtypecontext on input line 19.
@@ -1020,8 +925,8 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-LatinM
-odernRoman.cfg
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/microtype/mt-LatinModernRoman.
+cfg
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
@@ -1117,8 +1022,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 19.
-luaotfload | cache : Lookup cache loaded from C:/Users/pierreper/AppData/Local/M
-iKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from C:/Users/pierr/AppData/Local/MiKTe
+X/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
 Package fontspec Info: 
 (fontspec)             Font family 'SegoeUIEmoji(0)' created for font 'Segoe
@@ -1197,8 +1102,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 62.
 
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cf
-g
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 ))
@@ -1207,9 +1111,7 @@ LaTeX Font Warning: Font shape `TU/NotoColorEmoji.ttf(0)/bx/n' undefined
 (Font)              using `TU/NotoColorEmoji.ttf(0)/m/n' instead on input line 
 23.
 
-
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-TU-bas
-ic.cfg
+(C:/Users/pierr/AppData/Roaming/MiKTeX/tex/latex/microtype/mt-TU-basic.cfg
 File: mt-TU-basic.cfg 2021/06/22 v1.1 microtype config. file: fonts with basic 
 glyph set (RS)
 )
@@ -1552,20 +1454,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--34
 
 [1
 
-{C:/Users/pierreper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./logo_alp
-ha.png><./qr-code.png><../../../rule_lib/english_crop.png><../../../rule_lib/car
-ds.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_li
-b/clock.png><./luatex.13g000/1.png><./luatex.13g000/2.png><./luatex.13g000/3.png
-><./luatex.13g000/4.png>]
+{C:/Users/pierr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./logo_alpha.p
+ng><./qr-code.png><../../../rule_lib/english_crop.png><../../../rule_lib/cards.p
+ng><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_lib/cl
+ock.png><./luatex.0xl000/1.png><./luatex.0xl000/2.png><./luatex.0xl000/3.png><./
+luatex.0xl000/4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 41--50
 
  []
 
 
 
-[2<./luatex.13g000/5.png><./luatex.13g000/6.png>] (./rule.aux)
+[2<./luatex.0xl000/5.png><./luatex.0xl000/6.png>] (./rule.aux)
  ***********
-LaTeX2e <2024-11-01>
+LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 
@@ -1575,21 +1477,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27237 strings out of 475684
+ 27220 strings out of 475910
  125240,1144653 words of node,token memory allocated
  1212 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 10
  attribute, 193 glue_spec, 10 attribute_list, 3 write nodes
    avail lists: 1:3,2:1398,3:797,4:52,5:183,6:16,7:2058,8:3,9:580,10:3,11:30
- 49528 multiletter control sequences out of 65536+600000
- 38 fonts using 34900903 bytes
+ 49295 multiletter control sequences out of 65536+600000
+ 38 fonts using 10862503 bytes
  109i,11n,105p,1000b,881s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/users/pierreper/appdata/local/programs/miktex/fonts/opentype/public/lm/lmrom
-an10-regular.otf><c:/users/pierreper/appdata/local/programs/miktex/fonts/opentyp
-e/public/lm/lmroman8-bold.otf><c:/users/pierreper/appdata/local/programs/miktex/
-fonts/opentype/public/lm/lmroman8-regular.otf><C:/Users/pierreper/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pierreper/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+<c:/program files/miktex/fonts/opentype/public/lm/lmroman10-regular.otf><c:/prog
+ram files/miktex/fonts/opentype/public/lm/lmroman8-bold.otf><c:/program files/mi
+ktex/fonts/opentype/public/lm/lmroman8-regular.otf><C:/Program Files/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb>
 Output written on rule.pdf (2 pages, 474283 bytes).
 
 PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
