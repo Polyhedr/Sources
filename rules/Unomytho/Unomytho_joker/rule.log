@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  21 APR 2025 15:22
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 14:45
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -961,22 +961,22 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (./rule.aux)
 \openout1 = rule.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pd
 f.mkii
@@ -1003,19 +1003,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 ys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 19.
-Package microtype Info: Applying patch `item' on input line 19.
-Package microtype Info: Applying patch `toc' on input line 19.
-Package microtype Info: Applying patch `eqnum' on input line 19.
-Package microtype Info: Applying patch `footnote' on input line 19.
-Package microtype Info: Applying patch `verbatim' on input line 19.
+LaTeX Info: Redefining \microtypecontext on input line 20.
+Package microtype Info: Applying patch `item' on input line 20.
+Package microtype Info: Applying patch `toc' on input line 20.
+Package microtype Info: Applying patch `eqnum' on input line 20.
+Package microtype Info: Applying patch `footnote' on input line 20.
+Package microtype Info: Applying patch `verbatim' on input line 20.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 19.
+LaTeX Info: Redefining \showhyphens on input line 20.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1066,57 +1066,57 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 19.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 19.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 19.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 19.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 19.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 19.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 19.
-LaTeX Font Info:    Redeclaring math accent \check on input line 19.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 19.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 19.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 19.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 19.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
+LaTeX Font Info:    Redeclaring math accent \check on input line 20.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 19.
+(Font)              `operators' in the math version `normal' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 19.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 20.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 19.
+(Font)              `operators' in the math version `bold' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 19.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 19.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 19.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 19.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 19.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 19.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 19.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 19.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 19.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 19.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 20.
 luaotfload | cache : Lookup cache loaded from C:/Users/pierreper/AppData/Local/M
 iKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
@@ -1162,40 +1162,40 @@ Package luatex.def Info: logo_alpha.png  used on input line 29.
 <qr-code.png, id=5, 2263.45625pt x 2263.45625pt>
 File: qr-code.png Graphic file (type png)
 <use qr-code.png>
-Package luatex.def Info: qr-code.png  used on input line 35.
+Package luatex.def Info: qr-code.png  used on input line 43.
 (luatex.def)             Requested size: 40.64308pt x 40.61612pt.
 <../../../rule_lib/french_crop.png, id=6, 481.8pt x 361.35pt>
 File: ../../../rule_lib/french_crop.png Graphic file (type png)
 <use ../../../rule_lib/french_crop.png>
 Package luatex.def Info: ../../../rule_lib/french_crop.png  used on input line 
-38.
+46.
 (luatex.def)             Requested size: 12.63016pt x 7.57588pt.
 <../../../rule_lib/cards.png, id=7, 385.44pt x 385.44pt>
 File: ../../../rule_lib/cards.png Graphic file (type png)
 <use ../../../rule_lib/cards.png>
-Package luatex.def Info: ../../../rule_lib/cards.png  used on input line 45.
+Package luatex.def Info: ../../../rule_lib/cards.png  used on input line 53.
 (luatex.def)             Requested size: 15.22314pt x 15.22089pt.
 <../../../rule_lib/group.png, id=8, 411.136pt x 411.136pt>
 File: ../../../rule_lib/group.png Graphic file (type png)
 <use ../../../rule_lib/group.png>
-Package luatex.def Info: ../../../rule_lib/group.png  used on input line 55.
+Package luatex.def Info: ../../../rule_lib/group.png  used on input line 63.
 (luatex.def)             Requested size: 15.22314pt x 15.21931pt.
 <../../../rule_lib/age.png, id=9, 385.44pt x 385.44pt>
 File: ../../../rule_lib/age.png Graphic file (type png)
 <use ../../../rule_lib/age.png>
-Package luatex.def Info: ../../../rule_lib/age.png  used on input line 58.
+Package luatex.def Info: ../../../rule_lib/age.png  used on input line 66.
 (luatex.def)             Requested size: 15.22314pt x 15.22089pt.
 <../../../rule_lib/clock.png, id=10, 385.44pt x 385.44pt>
 File: ../../../rule_lib/clock.png Graphic file (type png)
 <use ../../../rule_lib/clock.png>
-Package luatex.def Info: ../../../rule_lib/clock.png  used on input line 61.
+Package luatex.def Info: ../../../rule_lib/clock.png  used on input line 69.
 (luatex.def)             Requested size: 15.22314pt x 15.22089pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 62.
+(Font)              <8> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
+(Font)              <6> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
+(Font)              <5> on input line 70.
 
 (C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cf
 g
@@ -1205,7 +1205,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 LaTeX Font Warning: Font shape `TU/NotoColorEmoji.ttf(0)/bx/n' undefined
 (Font)              using `TU/NotoColorEmoji.ttf(0)/m/n' instead on input line 
-23.
+24.
 
 
 (C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-TU-bas
@@ -1524,22 +1524,22 @@ Package microtype Info: Character `textgreater ' is missing
 (microtype)             in font `TU/NotoColorEmoji.ttf(0)/bx/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--28
+Underfull \hbox (badness 10000) in paragraph at lines 74--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--28
+Underfull \hbox (badness 10000) in paragraph at lines 74--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--28
+Underfull \hbox (badness 10000) in paragraph at lines 74--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--28
+Underfull \hbox (badness 10000) in paragraph at lines 74--29
 
  []
 
@@ -1550,14 +1550,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--28
 {C:/Users/pierreper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./logo_alp
 ha.png><./qr-code.png><../../../rule_lib/french_crop.png><../../../rule_lib/card
 s.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_lib
-/clock.png><./luatex.ewd000/1.png><./luatex.ewd000/2.png>]
-Overfull \hbox (3.0126pt too wide) in paragraph at lines 29--35
+/clock.png><./luatex.2qn000/1.png><./luatex.2qn000/2.png>]
+Overfull \hbox (3.0126pt too wide) in paragraph at lines 30--36
 \TU/NotoColorEmoji.ttf(0)/bx/n/8 🎉 \TU/lmr/bx/n/8 Un-omito Clas-sique. \TU/l
 mr/m/n/8 Lorsqu’un \OMS/cmsy/m/n/8 1 \TU/lmr/m/n/8 est
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--35
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
  []
 
@@ -1575,13 +1575,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27235 strings out of 475684
+ 27236 strings out of 475684
  125240,1144653 words of node,token memory allocated
  1149 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 193 glue_spec
 , 7 attribute_list, 3 write nodes
-   avail lists: 1:3,2:1322,3:768,4:30,5:105,6:14,7:1298,8:3,9:546,10:4,11:52
- 49526 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:1326,3:768,4:30,5:105,6:14,7:1302,8:3,9:546,10:4,11:52
+ 49527 multiletter control sequences out of 65536+600000
  38 fonts using 34900903 bytes
  109i,11n,105p,1000b,881s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/pierreper/appdata/local/programs/miktex/fonts/opentype/public/lm/lmrom
@@ -1590,7 +1590,7 @@ e/public/lm/lmroman8-bold.otf><c:/users/pierreper/appdata/local/programs/miktex/
 fonts/opentype/public/lm/lmroman8-regular.otf><C:/Users/pierreper/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pierreper/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rule.pdf (2 pages, 710814 bytes).
+Output written on rule.pdf (2 pages, 710813 bytes).
 
 PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)

@@ -1,0 +1,65 @@
+\documentclass[a4paper]{memoir}
+\usepackage{graphicx}
+%% Language and font encodings
+\usepackage{microtype}
+\usepackage[paperheight=88.9mm,paperwidth=63.5mm,margin=5mm]{geometry}
+\usepackage{ragged2e}
+\usepackage{adjustbox}
+\usepackage{pgffor}
+\usepackage{emoji}
+\usepackage{tikz}
+\newcommand{\cardtext}{0-10}
+\newcommand{\grouptext}{2-6}
+\newcommand{\agetext}{10+}
+\newcommand{\clocktext}{20$''$}
+\newcommand{\languagecrop}{french_crop}
+\newcommand{\colorcount}{6}
+\newcommand{\cardtitle}{LE PR\'ESIDENT}
+\newcommand{\cardsubtitle}{FANT\^OME}
+\def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue, 5/mygreen}
+\begin{document}
+{\footnotesize
+\input{../../../rule_lib/rule_lib.tex}
+
+\noindent
+\textbf{\emoji{arrows-counterclockwise} Mise en place.}  
+Distribue les cartes en incluant un joueur fictif. Ses cartes sont écartées. Le joueur avec le \textbf{10 jaune} commence.
+\\
+\\
+\noindent
+\textbf{\emoji{dart} But du jeu.}  
+Être le premier à poser toutes ses cartes.
+\\
+\\
+\noindent
+\textbf{\emoji{video-game} Déroulement.}  
+À ton tour, tu peux :
+\begin{itemize}
+    \item \textbf{Poser une combinaison} de cartes identiques (singleton, paire, triple...).  
+    Tu dois jouer le même nombre de cartes et une valeur \textbf{supérieure ou égale} à la combinaison précédente.
+    
+    \item \textbf{Passer ton tour.}  
+    Dans ce cas, tu ne pourras plus rejouer tant que le cycle en cours n’est pas terminé.
+\end{itemize}
+
+\noindent
+\emoji{pushpin} Les \textbf{jokers} peuvent remplacer n’importe quelle carte dans une combinaison.
+\\
+\\
+\noindent
+\emoji{warning} Le cycle s’arrête si :
+\begin{itemize}
+    \item Tous les autres joueurs passent.
+    \item Une combinaison de 12 est jouée.
+    \item Une combinaison de même valeur que la précédente, d’au moins 2 cartes, sans joker, est jouée.
+\end{itemize}
+Le dernier joueur à avoir joué  commence le cycle suivant.
+\\
+\\
+\emoji{pushpin} \textbf{Interdit de finir sur une combinaison de 12} — sinon, tu perds.
+
+}
+\end{document}
+
+
+
