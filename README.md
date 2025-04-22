@@ -26,7 +26,7 @@ The **Sources** deck consists of 81 cards, which are categorized into **13 value
 </p>
 
 The 6 colors are organized according to:
-- **Three symbols**:  
+- **Three symbols** (a joker exists for each of them):  
   - **Square**: yellow and purple.  
   - **Circle**: orange and blue.  
   - **Triangle**: red and green.  
