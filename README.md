@@ -28,7 +28,7 @@ Le jeu **Sources** se compose de 81 cartes, réparties en **13 valeurs** (allant
 </p>
 
 Les 6 couleurs sont organisées selon :  
-- **Trois symboles** :  
+- **Trois symboles** (un joker existe pour chacun d’eux) :  
   - **Carré** : jaune et violet.  
   - **Rond** : orange et bleu.
   - **Triangle** : rouge et vert.  
