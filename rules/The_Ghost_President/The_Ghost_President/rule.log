@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 15:56
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:03
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -1162,25 +1162,25 @@ Package luatex.def Info: logo_alpha.png  used on input line 29.
 <qr-code.png, id=5, 2213.26875pt x 2213.26875pt>
 File: qr-code.png Graphic file (type png)
 <use qr-code.png>
-Package luatex.def Info: qr-code.png  used on input line 35.
+Package luatex.def Info: qr-code.png  used on input line 43.
 (luatex.def)             Requested size: 40.64308pt x 40.62737pt.
 <../../../rule_lib/english_crop.png, id=6, 513.92pt x 343.2825pt>
 File: ../../../rule_lib/english_crop.png Graphic file (type png)
 <use ../../../rule_lib/english_crop.png>
 Package luatex.def Info: ../../../rule_lib/english_crop.png  used on input line
- 38.
+ 46.
 (luatex.def)             Requested size: 12.6331pt x 7.57947pt.
 <../../../rule_lib/cards.png, id=7, 385.44pt x 385.44pt>
 File: ../../../rule_lib/cards.png Graphic file (type png)
 <use ../../../rule_lib/cards.png>
-Package luatex.def Info: ../../../rule_lib/cards.png  used on input line 45.
+Package luatex.def Info: ../../../rule_lib/cards.png  used on input line 53.
 (luatex.def)             Requested size: 15.22314pt x 15.22089pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 46.
+(Font)              <6> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 46.
+(Font)              <5> on input line 54.
 
 (C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cf
 g
@@ -1190,35 +1190,35 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 <../../../rule_lib/group.png, id=8, 411.136pt x 411.136pt>
 File: ../../../rule_lib/group.png Graphic file (type png)
 <use ../../../rule_lib/group.png>
-Package luatex.def Info: ../../../rule_lib/group.png  used on input line 55.
+Package luatex.def Info: ../../../rule_lib/group.png  used on input line 63.
 (luatex.def)             Requested size: 15.22314pt x 15.21931pt.
 <../../../rule_lib/age.png, id=9, 385.44pt x 385.44pt>
 File: ../../../rule_lib/age.png Graphic file (type png)
 <use ../../../rule_lib/age.png>
-Package luatex.def Info: ../../../rule_lib/age.png  used on input line 58.
+Package luatex.def Info: ../../../rule_lib/age.png  used on input line 66.
 (luatex.def)             Requested size: 15.22314pt x 15.22089pt.
 <../../../rule_lib/clock.png, id=10, 385.44pt x 385.44pt>
 File: ../../../rule_lib/clock.png Graphic file (type png)
 <use ../../../rule_lib/clock.png>
-Package luatex.def Info: ../../../rule_lib/clock.png  used on input line 61.
+Package luatex.def Info: ../../../rule_lib/clock.png  used on input line 69.
 (luatex.def)             Requested size: 15.22314pt x 15.22089pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 66--23
+Underfull \hbox (badness 10000) in paragraph at lines 74--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--23
+Underfull \hbox (badness 10000) in paragraph at lines 74--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--23
+Underfull \hbox (badness 10000) in paragraph at lines 74--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--23
+Underfull \hbox (badness 10000) in paragraph at lines 74--23
 
  []
 
@@ -1565,7 +1565,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--52
 {C:/Users/pierreper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./logo_alp
 ha.png><./qr-code.png><../../../rule_lib/english_crop.png><../../../rule_lib/car
 ds.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_li
-b/clock.png><./luatex.q79000/1.png><./luatex.q79000/2.png><./luatex.q79000/3.png
+b/clock.png><./luatex.ada000/1.png><./luatex.ada000/2.png><./luatex.ada000/3.png
 >]
 Underfull \hbox (badness 10000) in paragraph at lines 56--60
 
@@ -1573,7 +1573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--60
 
 
 
-[2<./luatex.q79000/4.png><./luatex.q79000/5.png>] (./rule.aux)
+[2<./luatex.ada000/4.png><./luatex.ada000/5.png>] (./rule.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2020/03/25>
@@ -1585,13 +1585,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27238 strings out of 475684
+ 27245 strings out of 475684
  125240,1144653 words of node,token memory allocated
  1214 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 2 margin_ke
 rn, 4 glyph, 8 attribute, 193 glue_spec, 8 attribute_list, 3 write nodes
-   avail lists: 1:3,2:1396,3:802,4:51,5:138,6:22,7:1703,8:3,9:577,10:2,11:31
- 49529 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:1440,3:820,4:51,5:138,6:22,7:1751,8:3,9:591,10:2,11:35
+ 49536 multiletter control sequences out of 65536+600000
  38 fonts using 34900903 bytes
  109i,11n,105p,1000b,881s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/pierreper/appdata/local/programs/miktex/fonts/opentype/public/lm/lmrom
@@ -1600,7 +1600,7 @@ e/public/lm/lmroman8-bold.otf><c:/users/pierreper/appdata/local/programs/miktex/
 fonts/opentype/public/lm/lmroman8-regular.otf><C:/Users/pierreper/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pierreper/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rule.pdf (2 pages, 1304161 bytes).
+Output written on rule.pdf (2 pages, 1304571 bytes).
 
 PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)

@@ -28,8 +28,16 @@
     \node[yshift=-14mm] (logo) at (current page.north)
     {\includegraphics[width=\textwidth]{logo_alpha.png}};
 
-    \node[yshift=1.4mm] (title) at (logo.south)
-    {\cardtitle};
+    \ifdefempty{\cardsubtitle}{
+        \node[yshift=1.4mm] (title) at (logo.south)
+        {\cardtitle};
+    }{
+        \node[yshift=4.1mm] (title) at (logo.south)
+        {\cardtitle};
+    
+        \node[yshift=-0.4mm] (subtitle) at (title.south)
+        {\cardsubtitle};
+    }
 
     \node[yshift=1.5mm, anchor=west] (qr) at (logo.west)
     {\includegraphics[width=.267\textwidth]{qr-code.png}};
