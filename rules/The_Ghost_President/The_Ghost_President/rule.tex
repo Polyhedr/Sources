@@ -8,43 +8,55 @@
 \usepackage{pgffor}
 \usepackage{emoji}
 \usepackage{tikz}
-\newcommand{\cardtext}{0-10}
+\newcommand{\cardtext}{0-$\infty$}
 \newcommand{\grouptext}{2-6}
 \newcommand{\agetext}{10+}
 \newcommand{\clocktext}{20$''$}
 \newcommand{\languagecrop}{english_crop}
 \newcommand{\colorcount}{6}
-\newcommand{\cardtitle}{TWO TOWERS}
+\newcommand{\cardtitle}{THE GHOST}
+\newcommand{\cardsubtitle}{PRESIDENT}
 \def\colors{0/myyellow, 1/myorange, 2/myred, 3/mypurple, 4/myblue, 5/mygreen}
 \begin{document}
 {\footnotesize
 \input{../../../rule_lib/rule_lib.tex}
+
 \noindent
-\textbf{\emoji{arrows-counterclockwise} Setup.} Create \textbf{6 piles of shuffled cards, face up} in the center of the table, one pile per color.
-Each player has two spaces in front of them to build their towers.
-\\
-\\
-\noindent
-\textbf{\emoji{dart} Goal of the game.} Score the most points! The score of a tower is (last value placed) $\times$ (number of cards in the tower).
+\textbf{\emoji{arrows-counterclockwise} Setup.}  
+Deal the cards including a dummy player. Their cards are discarded. The player with the \textbf{yellow 10} starts.
 \\
 \\
 \noindent
-\textbf{\emoji{video-game} How it works.} Players take turns. On your turn, you can take \textbf{1 or 2 actions (but not 0!)}. Here are your options:
+\textbf{\emoji{dart} Goal.}  
+Be the first to get rid of all your cards.
+\\
+\\
+\noindent
+\textbf{\emoji{video-game} How to play.}  
+On your turn, you can:
 \begin{itemize}
-\item\textbf{Take a card} from one of the 6 piles and place it in your hand. 
-\\
-\emoji{warning} You cannot have more than 3 cards in your hand!
-\item\textbf{Place a card} from your hand onto one of your towers. 
-\\
-\emoji{warning} The placed card must either be of \textbf{the same value}, or \textbf{the same color but with a higher value} than the last card on the tower (no restriction for the first card of a tower).
+    \item \textbf{Play a set} of identical cards (singleton, pair, triple...).  
+    If there's already a set on the table, you must play the same number of cards with a \textbf{higher or equal value}.
+    
+    \item \textbf{Pass.}  
+    You can’t play again until the cycle ends.
 \end{itemize}
+
 \noindent
-\textbf{\emoji{stop-sign} End of the game.}
-If you can no longer play, the game ends for you!
-The other players get one last turn each before points are tallied.
+\emoji{pushpin} \textbf{Jokers} can replace any card in a set.
 \\
 \\
 \noindent
-\emoji{pushpin} Cards in the towers are stacked face up and offset so you can clearly see how many there are.
+\emoji{warning} The cycle ends if:
+\begin{itemize}
+    \item All other players pass.
+    \item A set of 12s is played.
+    \item A set matching the previous one (same value, at least 2 cards, no jokers) is played.
+\end{itemize}
+The last player to play starts the next cycle.
+\\
+\\
+\emoji{pushpin} \textbf{You can’t end the game with a set of 12s} — if you do, you lose.
+
 }
 \end{document}
