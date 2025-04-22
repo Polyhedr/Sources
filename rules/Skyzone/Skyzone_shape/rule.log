@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:03
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:43
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -1557,8 +1557,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 <./logo_alpha.png><./qr-code.png><../../../rule_lib/english_crop.png><../../../r
 ule_lib/cards.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../..
-/../rule_lib/clock.png><./luatex.7aa000/1.png><./luatex.7aa000/2.png><./luatex.7
-aa000/3.png>]
+/../rule_lib/clock.png><./luatex.2eg000/1.png><./luatex.2eg000/2.png><./luatex.2
+eg000/3.png>]
 
 [2] (./rule.aux)
  ***********

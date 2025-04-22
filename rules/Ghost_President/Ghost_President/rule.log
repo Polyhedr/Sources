@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:03
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:43
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -1565,7 +1565,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--52
 {C:/Users/pierreper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./logo_alp
 ha.png><./qr-code.png><../../../rule_lib/english_crop.png><../../../rule_lib/car
 ds.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_li
-b/clock.png><./luatex.ada000/1.png><./luatex.ada000/2.png><./luatex.ada000/3.png
+b/clock.png><./luatex.zbg000/1.png><./luatex.zbg000/2.png><./luatex.zbg000/3.png
 >]
 Underfull \hbox (badness 10000) in paragraph at lines 56--60
 
@@ -1573,7 +1573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--60
 
 
 
-[2<./luatex.ada000/4.png><./luatex.ada000/5.png>] (./rule.aux)
+[2<./luatex.zbg000/4.png><./luatex.zbg000/5.png>] (./rule.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2020/03/25>
@@ -1590,7 +1590,7 @@ Here is how much of LuaTeX's memory you used:
  1214 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 2 margin_ke
 rn, 4 glyph, 8 attribute, 193 glue_spec, 8 attribute_list, 3 write nodes
-   avail lists: 1:3,2:1440,3:820,4:51,5:138,6:22,7:1751,8:3,9:591,10:2,11:35
+   avail lists: 1:3,2:1440,3:820,4:51,5:138,6:22,7:1743,8:3,9:591,10:2,11:35
  49536 multiletter control sequences out of 65536+600000
  38 fonts using 34900903 bytes
  109i,11n,105p,1000b,881s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1600,7 +1600,7 @@ e/public/lm/lmroman8-bold.otf><c:/users/pierreper/appdata/local/programs/miktex/
 fonts/opentype/public/lm/lmroman8-regular.otf><C:/Users/pierreper/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pierreper/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rule.pdf (2 pages, 1304571 bytes).
+Output written on rule.pdf (2 pages, 1304724 bytes).
 
 PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:04
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:44
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -1555,15 +1555,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--35
 {C:/Users/pierreper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./logo_alp
 ha.png><./qr-code.png><../../../rule_lib/english_crop.png><../../../rule_lib/car
 ds.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_li
-b/clock.png><./luatex.gea000/1.png><./luatex.gea000/2.png><./luatex.gea000/3.png
-><./luatex.gea000/4.png>]
+b/clock.png><./luatex.jgg000/1.png><./luatex.jgg000/2.png><./luatex.jgg000/3.png
+><./luatex.jgg000/4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 42--51
 
  []
 
 
 
-[2<./luatex.gea000/5.png><./luatex.gea000/6.png>] (./rule.aux)
+[2<./luatex.jgg000/5.png><./luatex.jgg000/6.png>] (./rule.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2020/03/25>

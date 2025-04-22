@@ -18,6 +18,21 @@
 Sources is an innovative card game where every playthrough is unique: just pick a Rule card to discover a new way to play. And that’s not all: the game is designed to evolve with its community. You can modify existing rules or create new ones. We explain it all here...
 </h6>
 
+## Sources Games 🎮
+Explore the complete collection of Sources games here.
+
+|Game README|Rule Card|Duration|Age|Players|Cards|
+|-----------|:-------:|--------|---|-------|-----|
+| **[Ghost President](https://github.com/Polyhedr/Sources/tree/english/rules/Ghost_President#ghost-president)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Ghost_President/Ghost_President/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Ghost_President/Ghost_President/rule.pdf)|5 min|12+|2-10|0-∞ 🟡🟠🔴🟣🔵🟢|
+| **[Skyzone](https://github.com/Polyhedr/Sources/tree/english/rules/Skyzone#skyzone)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Skyzone/Skyzone/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Skyzone/Skyzone/rule.pdf)|20 min|12+|2-3|0-10 🟡🟠🔴🟣|
+| **[Skyzone shape](https://github.com/Polyhedr/Sources/tree/english/rules/Skyzone#skyzone-shape)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Skyzone/Skyzone_shape/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Skyzone/Skyzone_shape/rule.pdf)|20 min|12+|2-4|0-10 🟡🟠🔴🟣🔵🟢|
+| **[Sup](https://github.com/Polyhedr/Sources/tree/english/rules/Sup#sup)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Sup/Sup/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Sup/Sup/rule.pdf)|25 min|12+|2-6|1-12 🟡🟠🔴🟣🔵|
+| **[Sup team](https://github.com/Polyhedr/Sources/tree/english/rules/Sup#sup-team)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Sup/Sup_team/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Sup/Sup_team/rule.pdf)|25 min|12+|2-6|1-12 🟡🟠🔴🟣🔵|
+|**[Two Towers](https://github.com/Polyhedr/Sources/tree/english/rules/Two_Towers#two-towers)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Two_Towers/Two_Towers/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Two_Towers/Two_Towers/rule.pdf)|20 min|10+|2-6|0-10 🟡🟠🔴🟣🔵🟢|
+| **[Unomytho](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho#unomytho)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Unomytho/Unomytho/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho/Unomytho/rule.pdf)|20 min|6+|2-6|1-12 🟡🟠🔴🟣🔵🟢|
+| **[Unomytho 1pile](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho#unomytho-1pile)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Unomytho/Unomytho_1pile/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho/Unomytho_1pile/rule.pdf)|20 min|6+|2-6|1-12 🟡🟠🔴🟣🔵🟢|
+| **[Unomytho joker](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho#unomytho-joker)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Unomytho/Unomytho_joker/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho/Unomytho_joker/rule.pdf)|20 min|6+|2-6|1-∞ 🟡🟠🔴🟣🔵🟢|*
+
 ## Sources Cards 🃏🎴
 The **Sources** deck consists of 81 cards, which are categorized into **13 values** (ranging from 0 to 12) and **6 colors** (yellow, orange, red, purple, blue, and green), along with 3 joker cards (value ∞). Aesthetically, each color is linked to a distinct motif: for example, red is symbolized by fire, blue by water, etc.
 
@@ -41,20 +56,6 @@ This system, inspired by traditional playing cards (red/black with ♥️♠️�
 </p>
   
 The card colors are organized on a **color wheel**, where each color is connected to two natural neighbors. For example, **orange** is adjacent to **red** and **yellow**. This organization can be used in rules to create mechanics based on color proximity. The color wheel is designed to respect the alternation of themes (light/dark) and symbols (square, circle, triangle), with two opposite colors sharing the same symbol.
-
-## Sources Games 🎮
-Explore the complete collection of Sources games here.
-
-|Game README|Rule Card|Duration|Age|Players|Cards|
-|-----------|:-------:|--------|---|-------|-----|
-|**[Two Towers](https://github.com/Polyhedr/Sources/tree/english/rules/Two_Towers#two-towers)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Two_Towers/Two_Towers/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Two_Towers/Two_Towers/rule.pdf)|20 min|10+|2-6|0-10 🟡🟠🔴🟣🔵🟢|
-| **[Skyzone](https://github.com/Polyhedr/Sources/tree/english/rules/Skyzone#skyzone)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Skyzone/Skyzone/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Skyzone/Skyzone/rule.pdf)|20 min|12+|2-3|0-10 🟡🟠🔴🟣|
-| **[Skyzone shape](https://github.com/Polyhedr/Sources/tree/english/rules/Skyzone#skyzone-shape)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Skyzone/Skyzone_shape/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Skyzone/Skyzone_shape/rule.pdf)|20 min|12+|2-4|0-10 🟡🟠🔴🟣🔵🟢|
-| **[Sup](https://github.com/Polyhedr/Sources/tree/english/rules/Sup#sup)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Sup/Sup/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Sup/Sup/rule.pdf)|25 min|12+|2-6|1-12 🟡🟠🔴🟣🔵|
-| **[Sup team](https://github.com/Polyhedr/Sources/tree/english/rules/Sup#sup-team)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Sup/Sup_team/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Sup/Sup_team/rule.pdf)|25 min|12+|2-6|1-12 🟡🟠🔴🟣🔵|
-| **[Unomytho](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho#unomytho)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Unomytho/Unomytho/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho/Unomytho/rule.pdf)|20 min|6+|2-6|1-12 🟡🟠🔴🟣🔵🟢|
-| **[Unomytho 1pile](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho#unomytho-1pile)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Unomytho/Unomytho_1pile/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho/Unomytho_1pile/rule.pdf)|20 min|6+|2-6|1-12 🟡🟠🔴🟣🔵🟢|
-| **[Unomytho joker](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho#unomytho-joker)**|[<img src="https://github.com/Polyhedr/Sources/blob/english/rules/Unomytho/Unomytho_joker/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/english/rules/Unomytho/Unomytho_joker/rule.pdf)|20 min|6+|2-6|1-∞ 🟡🟠🔴🟣🔵🟢|*
 
 ## How Do Rule Cards Work? 📄
 Each rule in **Sources** is associated with a **Rule Card**, generated from the **rule.tex** file (converted to PDF via lualatex). The card is double-sided and includes the following elements:
