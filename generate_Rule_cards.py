@@ -70,7 +70,6 @@ def draw_rounded_rectangle(image, top_left=None, bottom_right=None, color=(255,2
 
 def main(dpi, padding, output_folder):
     rules = sorted(glob.glob(os.path.join("rules","*","*",'rule.tex')))
-    print(rules)
     for rule_path in rules:
         game_path = Path(rule_path).parent
 

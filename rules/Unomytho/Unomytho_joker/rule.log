@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 14:45
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:33
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -1550,7 +1550,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--29
 {C:/Users/pierreper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./logo_alp
 ha.png><./qr-code.png><../../../rule_lib/french_crop.png><../../../rule_lib/card
 s.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_lib
-/clock.png><./luatex.2qn000/1.png><./luatex.2qn000/2.png>]
+/clock.png><./luatex.awe000/1.png><./luatex.awe000/2.png>]
 Overfull \hbox (3.0126pt too wide) in paragraph at lines 30--36
 \TU/NotoColorEmoji.ttf(0)/bx/n/8 🎉 \TU/lmr/bx/n/8 Un-omito Clas-sique. \TU/l
 mr/m/n/8 Lorsqu’un \OMS/cmsy/m/n/8 1 \TU/lmr/m/n/8 est

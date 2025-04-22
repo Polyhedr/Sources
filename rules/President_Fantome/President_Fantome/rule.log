@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 14:43
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.11.4)  22 APR 2025 16:32
  restricted system commands enabled.
 **rule.tex
 (./rule.tex
@@ -1175,6 +1175,18 @@ File: ../../../rule_lib/cards.png Graphic file (type png)
 <use ../../../rule_lib/cards.png>
 Package luatex.def Info: ../../../rule_lib/cards.png  used on input line 53.
 (luatex.def)             Requested size: 15.22314pt x 15.22089pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 54.
+
+(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cf
+g
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
 <../../../rule_lib/group.png, id=8, 411.136pt x 411.136pt>
 File: ../../../rule_lib/group.png Graphic file (type png)
 <use ../../../rule_lib/group.png>
@@ -1190,18 +1202,7 @@ File: ../../../rule_lib/clock.png Graphic file (type png)
 <use ../../../rule_lib/clock.png>
 Package luatex.def Info: ../../../rule_lib/clock.png  used on input line 69.
 (luatex.def)             Requested size: 15.22314pt x 15.22089pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 70.
-
-(C:/Users/pierreper/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cf
-g
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-))
+)
 Underfull \hbox (badness 10000) in paragraph at lines 74--23
 
  []
@@ -1569,7 +1570,7 @@ Overfull \hbox (4.00978pt too wide) in paragraph at lines 38--40
 {C:/Users/pierreper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./logo_alp
 ha.png><./qr-code.png><../../../rule_lib/french_crop.png><../../../rule_lib/card
 s.png><../../../rule_lib/group.png><../../../rule_lib/age.png><../../../rule_lib
-/clock.png><./luatex.gjn000/1.png><./luatex.gjn000/2.png><./luatex.gjn000/3.png>
+/clock.png><./luatex.4qe000/1.png><./luatex.4qe000/2.png><./luatex.4qe000/3.png>
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 45--52
 
@@ -1582,7 +1583,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--60
 
 
 
-[2<./luatex.gjn000/4.png><./luatex.gjn000/5.png>] (./rule.aux)
+[2<./luatex.4qe000/4.png><./luatex.4qe000/5.png>] (./rule.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2020/03/25>
@@ -1599,7 +1600,7 @@ Here is how much of LuaTeX's memory you used:
  1199 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 3 glyph, 8 
 attribute, 193 glue_spec, 8 attribute_list, 3 write nodes
-   avail lists: 1:3,2:1430,3:812,4:45,5:133,6:22,7:1782,8:3,9:589,10:3,11:56
+   avail lists: 1:3,2:1430,3:812,4:45,5:133,6:22,7:1776,8:3,9:589,10:3,11:56
  49536 multiletter control sequences out of 65536+600000
  38 fonts using 34900903 bytes
  109i,11n,105p,1000b,881s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1607,10 +1608,11 @@ attribute, 193 glue_spec, 8 attribute_list, 3 write nodes
 an10-regular.otf><c:/users/pierreper/appdata/local/programs/miktex/fonts/opentyp
 e/public/lm/lmroman8-bold.otf><c:/users/pierreper/appdata/local/programs/miktex/
 fonts/opentype/public/lm/lmroman8-regular.otf><C:/Users/pierreper/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on rule.pdf (2 pages, 1294701 bytes).
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/pierreper/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on rule.pdf (2 pages, 1301936 bytes).
 
-PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

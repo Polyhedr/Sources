@@ -19,6 +19,20 @@ Sources est un jeu de cartes innovant où chaque partie est unique : il te suffi
 Et ce n’est pas tout : le jeu est conçu pour évoluer grâce à sa communauté. Tu peux modifier les règles existantes ou en créer de nouvelles. On t'explique tout ici...
 </h6>
 
+## Les jeux Sources 🎮
+Explore ici la collection complète des jeux Sources.
+
+|README du jeu|Carte Règle|Durée|Âge|Joueurs|Cartes|
+|-------------|:---------:|-----|---|-------|------|
+|**[Deux Tours](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Deux_Tours#deux-tours)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Deux_Tours/Deux_Tours/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Deux_Tours/Deux_Tours/rule.pdf)|20 min|10+|2-6|0-10 🟡🟠🔴🟣🔵🟢|
+| **[Président Fantome](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/President_Fantome#president-fantome)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/President_Fantome/President_Fantome/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/President_Fantome/President_Fantome/rule.pdf)|5 min|12+|2-10|0-∞ 🟡🟠🔴🟣🔵🟢|
+| **[Skyzone](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Skyzone#skyzone)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Skyzone/Skyzone/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Skyzone/Skyzone/rule.pdf)|20 min|12+|2-3|0-10 🟡🟠🔴🟣|
+| **[Skyzone shape](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Skyzone#skyzone-shape)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Skyzone/Skyzone_shape/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Skyzone/Skyzone_shape/rule.pdf)|20 min|12+|2-4|0-10 🟡🟠🔴🟣🔵🟢|
+| **[Sup](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Sup#sup)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Sup/Sup/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Sup/Sup/rule.pdf)|25 min|12+|2-6|1-12 🟡🟠🔴🟣🔵|
+| **[Sup team](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Sup#sup-team)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Sup/Sup_team/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Sup/Sup_team/rule.pdf)|25 min|12+|2-6|1-12 🟡🟠🔴🟣🔵|
+| **[Unomytho](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho#unomytho)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho/Unomytho/rule.pdf)|20 min|6+|2-6|1-12 🟡🟠🔴🟣🔵🟢|
+| **[Unomytho 1pile](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho#unomytho-1pile)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_1pile/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho/Unomytho_1pile/rule.pdf)|20 min|6+|2-6|1-12 🟡🟠🔴🟣🔵🟢|
+| **[Unomytho joker](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho#unomytho-joker)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_joker/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho/Unomytho_joker/rule.pdf)|20 min|6+|2-6|1-∞ 🟡🟠🔴🟣🔵🟢|
 
 ## Les cartes Sources 🃏🎴  
 Le jeu **Sources** se compose de 81 cartes, réparties en **13 valeurs** (allant de 0 à 12) et **6 couleurs** (jaune, orange, rouge, violet, bleu et vert), ainsi que 3 cartes joker (valeur ∞). Sur le plan esthétique, chaque couleur est associée à un motif distinct : par exemple, le rouge est symbolisé par le feu, le bleu par l’eau, etc.
@@ -43,20 +57,6 @@ Ce système, inspiré des cartes à jouer traditionnelles (rouge/noir avec ♥�
 </p>
 
 Les couleurs des cartes sont organisées sur un **cercle chromatique**, où chaque couleur est reliée à deux voisines naturelles, par exemple, **orange** est adjacent à **rouge** et **jaune**. Cette organisation peut être utilisée dans les règles pour exploiter des mécaniques basées sur la proximité des couleurs. Le cercle chromatique est conçu de manière à respecter l’alternance des thèmes (clair/sombre) et des symboles (carré, rond, triangle), avec deux couleurs opposées partageant le même symbole. 
-
-## Les jeux Sources 🎮
-Explore ici la collection complète des jeux Sources.
-
-|README du jeu|Carte Règle|Durée|Âge|Joueurs|Cartes|
-|-------------|:---------:|-----|---|-------|------|
-|**[Deux Tours](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Deux_Tours#deux-tours)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Deux_Tours/Deux_Tours/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Deux_Tours/Deux_Tours/rule.pdf)|20 min|10+|2-6|0-10 🟡🟠🔴🟣🔵🟢|
-| **[Skyzone](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Skyzone#skyzone)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Skyzone/Skyzone/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Skyzone/Skyzone/rule.pdf)|20 min|12+|2-3|0-10 🟡🟠🔴🟣|
-| **[Skyzone shape](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Skyzone#skyzone-shape)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Skyzone/Skyzone_shape/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Skyzone/Skyzone_shape/rule.pdf)|20 min|12+|2-4|0-10 🟡🟠🔴🟣🔵🟢|
-| **[Sup](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Sup#sup)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Sup/Sup/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Sup/Sup/rule.pdf)|25 min|12+|2-6|1-12 🟡🟠🔴🟣🔵|
-| **[Sup team](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Sup#sup-team)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Sup/Sup_team/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Sup/Sup_team/rule.pdf)|25 min|12+|2-6|1-12 🟡🟠🔴🟣🔵|
-| **[Unomytho](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho#unomytho)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho/Unomytho/rule.pdf)|20 min|6+|2-6|1-12 🟡🟠🔴🟣🔵🟢|
-| **[Unomytho 1pile](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho#unomytho-1pile)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_1pile/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho/Unomytho_1pile/rule.pdf)|20 min|6+|2-6|1-12 🟡🟠🔴🟣🔵🟢|
-| **[Unomytho joker](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho#unomytho-joker)**|[<img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_joker/rule_top.png" height=20px/>](https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/rules/Unomytho/Unomytho_joker/rule.pdf)|20 min|6+|2-6|1-∞ 🟡🟠🔴🟣🔵🟢|
 
 ## Comment fonctionnent les cartes Règle ? 📄
 Chaque règle de **Sources** est associée à une **carte Règle**, générée à partir du fichier **rule.tex** (en PDF via lualatex). La carte est recto-verso et comprend plusieurs éléments :
