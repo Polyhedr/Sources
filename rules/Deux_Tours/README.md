@@ -15,8 +15,6 @@
 1. Forme **6 piles de cartes face visible**, une par **couleur**, au centre de la table.
 2. Chaque joueur garde devant lui **2 emplacements vides** pour construire ses futures tours.
 
----
-
 ## 🎯 Objectif
 
 Construis les meilleures tours pour marquer un maximum de points !
@@ -24,8 +22,6 @@ Construis les meilleures tours pour marquer un maximum de points !
 > **Score d’une tour** = (valeur de la **dernière carte posée**) × (nombre total de cartes dans la tour)
 
 **Exemple :** Si ta tour se termine par un **6** et contient **4 cartes**, elle rapporte **6 × 4 = 24 points**.
-
----
 
 ## 🕹️ Ton tour de jeu
 
@@ -53,20 +49,14 @@ On joue à tour de rôle.
 - ❌ Tu ne peux pas poser un **2 vert** sur un **5 vert**
 - ❌ Tu ne peux pas poser un **6 jaune** sur un **5 bleu**
 
----
-
 ## 🛑 Fin de la partie
 
 Si tu ne peux **plus effectuer aucune action** (ni piocher, ni poser), alors c’est **terminé pour toi** !
 
 Les autres joueurs jouent un **dernier tour chacun**, puis on compte les points de tout le monde.
 
----
-
 ## 📌 Visibilité des tours
 
 Lorsque tu poses des cartes dans tes tours, empile-les **face visible et en les décalant légèrement** afin que chacun puisse voir :
 - le **nombre de cartes** dans chaque tour,
 - la **dernière carte posée** (importante pour le calcul du score !)
-
----
