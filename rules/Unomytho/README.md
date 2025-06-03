@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho/rule_top.png" width="400px">
      <p align="center">
-      <a href="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho/rule.pdf"><strong>Carte Règle</strong></a>
+      <a href="https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/RULES.md#unomytho"><strong>Carte Règle</strong></a>
       &nbsp;•&nbsp;
       <a href="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho/rule.tex"><strong>Code</strong></a>
       &nbsp;•&nbsp;
@@ -70,7 +70,7 @@ Si un contestataire se trompe (c'est-à-dire qu'il accuse un joueur honnête à 
 <p align="center">
   <img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_1pile/rule_top.png" width="400px">
      <p align="center">
-      <a href="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_1pile/rule.pdf"><strong>Carte Règle</strong></a>
+      <a href="https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/RULES.md#unomytho-1pile"><strong>Carte Règle</strong></a>
       &nbsp;•&nbsp;
       <a href="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_1pile/rule.tex"><strong>Code</strong></a>
       &nbsp;•&nbsp;
@@ -83,7 +83,7 @@ Si un contestataire se trompe (c'est-à-dire qu'il accuse un joueur honnête à 
 <p align="center">
   <img src="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_joker/rule_top.png" width="400px">
      <p align="center">
-      <a href="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_joker/rule.pdf"><strong>Carte Règle</strong></a>
+      <a href="https://github.com/Polyhedr/Sources/tree/fran%C3%A7ais/RULES.md#unomytho-joker"><strong>Carte Règle</strong></a>
       &nbsp;•&nbsp;
       <a href="https://github.com/Polyhedr/Sources/blob/fran%C3%A7ais/rules/Unomytho/Unomytho_joker/rule.tex"><strong>Code</strong></a>
       &nbsp;•&nbsp;
